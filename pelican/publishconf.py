@@ -8,8 +8,8 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = '40323107'
-SITENAME = '2015FALL CADP 課程'
-SITEURL = 'http://40323107.github.io/2015fallcadpa/'
+SITENAME = '2016 SPRING CD 課程'
+SITEURL = 'http://40323107.github.io/cdw/'
 
 PATH = 'content'
 
@@ -29,8 +29,8 @@ LINKS = (('2015 CADP 課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('2015 FALL CADPA 作業主頁','http://2015fallhw.github.io/2015fallcadpa/'),('Github','https://github.com/2015fallhw/2015fallcadpa/wiki'),('Vimeo','https://vimeo.com/user24079973/videos'),('40323107 作業主頁','http://2015fallhw.github.io/2015fallcadpa/user/40323107/'),('My Github','https://github.com/40323107/2015fallcadpa/tree/gh-pages'),('My Vimeo','https://vimeo.com/home/myvideos'),('My Copy','https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles'),('My WordPress','http://wordpress-40323107.rhcloud.com/'),('G2 作業主頁','http://2015fallhw.github.io/2015fallcadpa/category/g2.html'),('G2 Github','https://github.com/40323107/2015cadpa_g2/tree/gh-pages'),('Python', 'http://python.org/'))
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/ametaireau'),
-          ('Github', 'https://github.com/'),('OpenShift','https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole%2Fapplications'),('Bitbucket','https://bitbucket.org/'),('Vimeo','https://vimeo.com/home/myvideos'),('Copy','https://www.copy.com/page/home;section:landing'))
+SOCIAL = (('ethercalc', 'https://ethercalc.org/hqimr0sgo4mf'),
+          ('Github', 'https://github.com/'),('OpenShift','https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole%2Fapplications'),('Bitbucket','https://bitbucket.org/'),('Vimeo','https://vimeo.com/home/myvideos'),('pcloud.com','https://my.pcloud.com/'))
           
 DEFAULT_PAGINATION = 10
 
