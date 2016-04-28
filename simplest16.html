@@ -1,0 +1,254 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>我的報告</h2>
+    <p>第十六週</p>
+    <p>2015 / 12 / 31</p>		
+</section>
+	
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>四設計二甲</h2>
+    <p>40323107</p>
+    <p>廖佑珊</p>			
+</section>
+	
+<section id="hw-task-one">
+    <h2 align="left">第十六週筆記</h2>
+    <p align="left">1.說明課程內容及任務。</p>
+    <p align="left">2.利用 `Onshape軟體`繪製零件。</p>
+    <p align="left">3.說明如何計算`Nutcracker 機構`的有效運動距離。</p>
+    <p align="left">4.觀看課程相關教學影片。</p>
+</section>
+
+
+<section>
+    <section>
+        <h2>任務十六</h2>
+        <p>1.任務說明</p>
+        <p>2.參考網址</p>
+        <p>3.參考影片</p>
+    </section>
+    <section>
+        <h2 align="left">任務說明</h2>
+        <p align="left">(1)閱讀課程相關文章。</p>
+        <p align="left">(2)利用 `Onshape軟體 `繪製零件。</p>
+        <p align="left">(3)觀看課程教學影片。</p>
+    </section>
+    <section>
+        <h2>參考網址</h2>
+        <p>請參考</p>
+        <p> <a href="http://wordpress-2015course.rhcloud.com/?p=4584">w16</a></p>
+    </section>
+    <section>
+        <h2>參考影片</h2>
+        <p>請參考</p>
+        <p> <a href="https://player.vimeo.com/video/150401255">Vimeo - W16 - 1</a></p>
+        <p><a href="https://player.vimeo.com/video/150140635">Vimeo - W16 - 2</a></p>
+    </section>
+</section>
+
+    
+
+    
+
+<section>
+    <section>
+        <h1>任務成果</h1>
+        <p>1.零件繪製。</p>
+        <p>2.零件組合。</p>
+        <p>3.相關網址。</p>
+    </section>
+</section>   
+<section>     
+    <section>
+        <h2>零件7繪製</h2>
+        <p>(1)零件七  2D 草圖。</p>
+        <p>(2)零件七 繪製流程。</p>
+    </section>
+    <section>
+        <h3>零件七 2D 草圖</h3>
+        <p><img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"></p>
+    </section>
+    <section>
+        <h3>零件七 繪製流程。</h3>
+    </section>
+    <section>
+        <h4>(1)繪製草圖1：以`上視圖`(Top)做基準面，繪製一個`U型圖`，依據`2D草圖`所給予的尺寸來標註。</h4>
+        <p><img src="https://copy.com/Eo6gZnyaLQuYB0F7"></img></p>
+    </section>
+    <section>
+        <h4>(2)伸長填料`(擠出1)`：以`上視圖`(Top)為基準，兩側對稱向`左右`伸長 0.75in。</h4>
+        <p><img src="https://copy.com/YaTpf9ASUaWVIIsG"></img></p>
+    </section>
+    <section>
+        <h4>(3)繪製草圖2：以`右視圖`(Right)向後，物體平行右視圖最遠的面`(面1)`做基準面，繪製一個`直徑 0.25 的圓`。</h4>
+        <p><img src="https://copy.com/pMhgXxhMseCRMZrZ"></img></p>
+    </section>
+    <section>
+        <h4>(4)伸長除料`(擠出2)`：以`面1`做基底，向`前`完全貫穿物體除料。</h4>
+        <p><img src="https://copy.com/hcGFD1GRDTqHWvJw"></img></p>
+    </section>
+    <section>
+        <h4>(5)繪製草圖3：以物體底座`(面2)`做基準面，繪製兩個`直徑 0.25 的圓`且互相對稱，圓心距離`上邊`為 0.25in、距離`兩側`各為 0.2in。</h4>
+        <p><img src="https://copy.com/HqlLGZieIaqGxOut"></img></p>
+    </section>
+    <section>
+        <h4>(6)伸長除料`(擠出3)`：以`面2`做基底，向`後`(右)刪除 0.5in。</h4>
+        <p><img src="https://copy.com/JmsqOCm3nTUC6TPG"></img></p>
+    </section>
+    <section>
+        <h4>(7)零件完成。</h4>
+        <p><img src="https://copy.com/Cq6b4PUpdRe8K6AL"></img></p>
+    </section>
+</section>   
+<section>      
+    <section>
+        <h2>零件8繪製</h2>
+        <p>(1)零件八 2D 草圖。</p>
+        <p>(2)零件八 繪製流程。</p>
+    </section>
+    <section>
+        <h3>零件八  2D 草圖</h3>
+        <p><img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"></p>
+    </section>
+    <section>
+        <h3>零件八 繪製流程</h3>
+    </section>
+    <section>
+        <h4>(1)繪製草圖1：以`前視圖`(Front)做基準面，繪製一個`直徑 0.995 的圓`。</h4>
+        <p><img src="https://copy.com/E0GYdrZlMDSJAFbv"></img></p>
+    </section>
+    <section>
+        <h4>(2)伸長填料`(擠出1)`：以`前視圖`(Front)做基底，向`前`伸長 5in。</h4>
+        <p><img src="https://copy.com/yA9JubVuMyHHh10V"></img></p>
+    </section>
+    <section>
+        <h4>(3)繪製草圖2：以`物體向前伸長的那一面`(面1)`做基準面，繪製兩個矩形，並互相對稱，矩形靠近圓心的那一邊與圓心距離為 0.25in。</h4>
+        <p><img src="https://copy.com/j2CqaBI3eHIuduqh"></img></p>
+    </section>
+    <section>
+        <h4>(4)伸長除料`(擠出2)`：以`面1`做基底，向`後`刪除 1in。</h4>
+        <p><img src="https://copy.com/ts1WVnZeSWzhFNvF"></img>
+    </section>
+    <section>
+        <h4>(5)繪製草圖3：以`除料後`的某一面`(面2)`做基準面，繪製一個`直徑 0.25 的圓`且圓心距離面1為 0.25in。</h4>
+        <p><img src="https://copy.com/V9QN9EmJja7g9w1F"></img></p>
+    </section>
+    <section>
+        <h4>(6)伸長除料`(擠出3)`：以`面2`做基底，向`前`(右)刪除 1in。</h4>
+        <p><img src="https://copy.com/t6NQBHNaXvdaXeq1"></img></p>
+    </section>
+    <section>
+        <h4>(7)繪製草圖4：以`右視圖`(Right)做基準面，繪製兩條線相互垂直及一個`直徑 1`的半圓，且垂直線距離原點(前視圖的中心點)為 0.25in。</h4>
+        <p><img src="https://copy.com/uGnpoGxTvRaRQQlG"></img></p>
+    </section>
+    <section>
+        <h4>(8)旋轉除料`(擠出4)`：以`距離原點(前視圖的中心點)為 0.25in的垂直線`做軸心，`逆`時針旋轉除料。</h4>
+        <p><img src="https://copy.com/0xZhDobFLy1Uxj8H"></img></p>
+    </section>
+    <section>
+        <h4>(9)零件完成。</h4>
+        <p><img src="https://copy.com/vIAtGH8KgBWLljHv"></img></p>
+    </section>
+</section>   
+<section>      
+    <section>
+        <h2>零件組合</h2>
+        <p>(1)零件 3D 草圖。</p>
+        <p>(2)零件組裝圖。</p>
+    </section>
+    <section>
+        <h3>零件 3D 草圖</h3>
+        <p><img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="450"height="350"></p>
+    </section>
+    <section>
+        <h3>零件組裝圖</h3>
+    </section>
+    <section>
+        <h4>(1)a_g2_nutcracker - 40323107- Nutcracker 機構(close)</h4>
+        <p><img src="https://copy.com/nUtDHndz6k8FKRF1"></img></p>
+    </section>
+    <section>
+        <h4>(2)a_g2_nutcracker - 40323107- Nutcracker 機構(open)</h4>
+        <p><img src="https://copy.com/2DfCCXbxYcawNHp1"></img></p>
+    </section>
+</section>   
+<section>      
+    <section>
+        <h2>相關網址</h2>
+        <p><a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html">G2 - Pages</a></p>
+        <p><a href="http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html">G2 - W16  Pages</a></p>
+        <p><a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles">40323107 - Copy.com</a></p>
+        <p><a href="https://cad.onshape.com/documents?filter=recently-opened&column=modifiedAt&order=desc">40323107 - Onshape軟體</a></p>
+        <p><a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a">a_g2_nutcracker</a></p>
+    </section>
+</section>   
+    
+
+
+     
+
+       
+ 
+
+	
+<section>
+    <section>
+        <h2>結論</h2>
+        <p>1.心得</p>
+        <p>2.自評</p>
+        <p>3.啟發</p>
+    </section>
+    <section>
+        <h2>心得</h2>
+        <p>時間過得好快唷！轉瞬間就已經接近學期的尾聲了，顯然又到了最關鍵的時段啦！好多資料要統整的說。廢話不多說，馬上切入本週的主題吧！到了這時候你應該也有所發現，從W10 ~W16，我們好像都在處理同一件事情呢！只是偶而會增加一些難度，但也還好，不致於應付不來，總之，其實課程是一直堆疊上來的，所以每個環節都很重要呢！因此，到了這週，是在提醒我是該準備統整資料囉！不然就會來不及了，有點像趕快把燙手芋泥賣掉,，不然就要倒大楣了，又像是在諷刺說：平時不準備，事到臨頭才著急，可惜已經太晚啦！咎由自取。扯太遠了，這週的任務是尋找方法計算出 Nutcracker 機構 的有效運動距離，方法不限，總之，就是不管你運用何種方式，只要能求得答案行了。換句話說，雖然結果只有一個，但解決辦法確有很多種，只是看你想不想的到、用不用的到而已。</p>
+    </section>
+    <section>
+        <h2>自評</h2>
+        <p>85 分</p>
+    </section>    
+    <section>
+        <h2>啟發</h2>
+        <p>很多事物都有異曲同工之處</p>         
+    </section>
+</section>			
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

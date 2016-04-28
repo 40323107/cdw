@@ -1,0 +1,2495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADP 課程</title><link href="http://40323107.github.io/2015fallcadpa/" rel="alternate"></link><link href="http://40323107.github.io/2015fallcadpa/feeds/all.atom.xml" rel="self"></link><id>http://40323107.github.io/2015fallcadpa/</id><updated>2016-01-07T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計與實習 報告十七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w17%20-%20%2040323107.html" rel="alternate"></link><updated>2016-01-07T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-01-07:2015fallcadpa/2015cp_hw_w17 -  40323107.html</id><summary type="html">&lt;p&gt;公告：&lt;/p&gt;
+&lt;p&gt;以下為第十七週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest17.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest17.html" target="_blank"&gt;第十七週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w17&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第17週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4610  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.自我評分。&lt;code&gt;( ※自我肯定  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Onshape軟體&lt;/code&gt;繪製零件。&lt;/p&gt;
+&lt;p&gt;4.說明如何計算&lt;code&gt;Nutcracker 機構&lt;/code&gt;的有效運動距離。&lt;/p&gt;
+&lt;p&gt;5.說明評分時程規劃。&lt;/p&gt;
+&lt;p&gt;→網址：&lt;a href=" http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html"&gt; http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)自我評分。
+(2)閱讀課程相關文章。
+(3)計算 Nutcracker 機構 的有效運動距離。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)相關圖片。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/SlU4fBfIT9IhbAyl"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/OFpgK043fiogZjSW"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/rHrxpJW0jsiQBKQv"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/u4ZnKqfUoWbvFoJo"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W17  Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w17_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w17_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.40323107 - Copy.com：&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十七週喔！這次真的是期末作業與報告啦！&lt;/p&gt;
+&lt;p&gt;本週的主要任務是各週資料統整還有期末自評唷！ 
+一轉眼，學期末就到啦！感覺一切好不真實，回想前幾週的點滴，總覺得像過眼雲煙那般，看似忙碌又好
+像不忙碌，好像有種反複做著相同動作的錯覺呢！回想這幾週所學習到的知識，很多，一下子腦袋瓜有點
+負荷不了，但還是有喘息的空間啦！總之，若要我做個各週資料統整的話，感覺非難非易，因為人的記憶
+是有限的，有時它會自動過濾並刪除一些資訊，所以才需要科技的幫忙呢！也就是說，透過筆記、詢問、
+影片觀賞...等，真的能幫助我找回失落的記憶呢！還有，透過這次的體驗，從中我也領悟到很多道理呢！
+好比說：獨樂樂不如眾樂樂還有別把事情想得太複雜，其實它的道理很簡單的，也就是說：我們不能將事
+情由簡化難，而是要做到化難為簡，這個道理看似很簡單，做起來卻很難呢！另外，關於分組協同的部分
+，有很多地方還要再磨練磨練才行，雖然想做好，但要設想的層面太廣了，不過這真的是一個很難得的經
+驗，總之，在這門課程裡我真的學到很多，很難用言語來形容的感覺，所以也只能說：獲益良多。&lt;/p&gt;
+&lt;p&gt;這學期真的學到好多道理呀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒有太大的問題、資料統整還行、教導別人尚可、報告內容還不錯。&lt;/p&gt;
+&lt;p&gt;4.啟發：知識是源源不絕的。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4610"&gt;http://wordpress-2015course.rhcloud.com/?p=4610&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W17 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/150985277" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W17 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/150636968" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十六</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w16%20-%20%2040323107.html" rel="alternate"></link><updated>2015-12-31T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-12-31:2015fallcadpa/2015cp_hw_w16 -  40323107.html</id><summary type="html">&lt;p&gt;公告：今天是2015年的最後一天囉！要秉持著〝今日事，今日畢〞唷！&lt;/p&gt;
+&lt;p&gt;以下為第十六週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;第十六週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w16&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第16週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4584  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.利用 &lt;code&gt;Onshape軟體&lt;/code&gt;繪製零件。&lt;/p&gt;
+&lt;p&gt;3.說明如何計算&lt;code&gt;Nutcracker 機構&lt;/code&gt;的有效運動距離。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程相關文章。
+(2)利用 `Onshape軟體 `繪製零件。(  ※組別分配任務為：零件 7 和 零件 8 以及  Nutcracker 機構組裝  )
+(3)觀看課程教學影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件7： HINGE &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件繪製流程。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)繪製草圖1：以&lt;code&gt;上視圖&lt;/code&gt;(Top)做基準面，繪製一個&lt;code&gt;U型圖&lt;/code&gt;，依據&lt;code&gt;2D草圖&lt;/code&gt;所給予的尺寸來標註。&lt;br /&gt;
+&lt;img src="https://copy.com/Eo6gZnyaLQuYB0F7"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)伸長填料&lt;code&gt;(擠出1)&lt;/code&gt;：以&lt;code&gt;上視圖&lt;/code&gt;(Top)為基準，兩側對稱向&lt;code&gt;左右&lt;/code&gt;伸長 0.75in。&lt;br /&gt;
+&lt;img src="https://copy.com/YaTpf9ASUaWVIIsG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(3)繪製草圖2：以&lt;code&gt;右視圖&lt;/code&gt;(Right)向後，物體平行右視圖最遠的面&lt;code&gt;(面1)&lt;/code&gt;做基準面，繪製一個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;。&lt;br /&gt;
+&lt;img src="https://copy.com/pMhgXxhMseCRMZrZ"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(4)伸長除料&lt;code&gt;(擠出2)&lt;/code&gt;：以&lt;code&gt;面1&lt;/code&gt;做基底，向&lt;code&gt;前&lt;/code&gt;完全貫穿物體除料。&lt;br /&gt;
+&lt;img src="https://copy.com/hcGFD1GRDTqHWvJw"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(5)繪製草圖3：以物體底座&lt;code&gt;(面2)&lt;/code&gt;做基準面，繪製兩個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;且互相對稱，圓心距離&lt;code&gt;上邊&lt;/code&gt;為 0.25in、距離&lt;code&gt;兩側&lt;/code&gt;各為 0.2in。&lt;br /&gt;
+&lt;img src="https://copy.com/HqlLGZieIaqGxOut"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(6)伸長除料&lt;code&gt;(擠出3)&lt;/code&gt;：以&lt;code&gt;面2&lt;/code&gt;做基底，向&lt;code&gt;後&lt;/code&gt;(右)刪除 0.5in。&lt;br /&gt;
+&lt;img src="https://copy.com/JmsqOCm3nTUC6TPG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(7)零件完成。&lt;br /&gt;
+&lt;img src="https://copy.com/Cq6b4PUpdRe8K6AL"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件8： PISTON &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件繪製流程。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)繪製草圖1：以&lt;code&gt;前視圖&lt;/code&gt;(Front)做基準面，繪製一個&lt;code&gt;直徑 0.995 的圓&lt;/code&gt;。&lt;br /&gt;
+&lt;img src="https://copy.com/E0GYdrZlMDSJAFbv"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)伸長填料&lt;code&gt;(擠出1)&lt;/code&gt;：以&lt;code&gt;前視圖&lt;/code&gt;(Front)做基底，向&lt;code&gt;前&lt;/code&gt;伸長 5in。&lt;br /&gt;
+&lt;img src="https://copy.com/yA9JubVuMyHHh10V"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(3)繪製草圖2：以&lt;code&gt;物體向前伸長的那一面&lt;/code&gt;(面1)`做基準面，繪製兩個矩形，並互相對稱，矩形靠近圓心的那一邊與圓心距離為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/j2CqaBI3eHIuduqh"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(4)伸長除料&lt;code&gt;(擠出2)&lt;/code&gt;：以&lt;code&gt;面1&lt;/code&gt;做基底，向&lt;code&gt;後&lt;/code&gt;刪除 1in。&lt;br /&gt;
+&lt;img src="https://copy.com/ts1WVnZeSWzhFNvF"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(5)繪製草圖3：以&lt;code&gt;除料後&lt;/code&gt;的某一面&lt;code&gt;(面2)&lt;/code&gt;做基準面，繪製一個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;且圓心距離面1為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/V9QN9EmJja7g9w1F"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(6)伸長除料&lt;code&gt;(擠出3)&lt;/code&gt;：以&lt;code&gt;面2&lt;/code&gt;做基底，向&lt;code&gt;前&lt;/code&gt;(右)刪除 1in。&lt;br /&gt;
+&lt;img src="https://copy.com/t6NQBHNaXvdaXeq1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(7)繪製草圖4：以&lt;code&gt;右視圖&lt;/code&gt;(Right)做基準面，繪製兩條線相互垂直及一個&lt;code&gt;直徑 1&lt;/code&gt;的半圓，且垂直線距離原點(前視圖的中心點)為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/uGnpoGxTvRaRQQlG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(8)旋轉除料&lt;code&gt;(擠出4)&lt;/code&gt;：以&lt;code&gt;距離原點(前視圖的中心點)為 0.25in的垂直線&lt;/code&gt;做軸心，&lt;code&gt;逆&lt;/code&gt;時針旋轉除料。&lt;br /&gt;
+&lt;img src="https://copy.com/0xZhDobFLy1Uxj8H"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(9)零件完成。&lt;br /&gt;
+&lt;img src="https://copy.com/vIAtGH8KgBWLljHv"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(B)零件組合。&lt;/p&gt;
+&lt;p&gt;1.零件 3D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件組裝圖。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)a_g2_nutcracker - 40323107- Nutcracker 機構(close)&lt;br /&gt;
+&lt;img src="https://copy.com/nUtDHndz6k8FKRF1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)a_g2_nutcracker - 40323107- Nutcracker 機構(open)&lt;br /&gt;
+&lt;img src="https://copy.com/2DfCCXbxYcawNHp1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(C)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W16  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.40323107 - Copy.com： &lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.40323107 - Onshape軟體： &lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;https://cad.onshape.com/documents?filter=recently-opened&amp;amp;column=modifiedAt&amp;amp;order=desc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.7.a_g2_nutcracker： &amp;lt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十六週喔！為期末的第七次作業與報告啦！&lt;/p&gt;
+&lt;p&gt;時間過得好快唷！轉瞬間就已經接近學期的尾聲了，顯然又到了最關鍵的時段啦！好多資料要統整的說。
+廢話不多說，馬上切入本週的主題吧！到了這時候你應該也有所發現，從W10 ~W16，我們好像都在處理
+同一件事情呢！只是偶而會增加一些難度，但也還好，不致於應付不來，總之，其實課程是一直堆疊上來
+的，所以每個環節都很重要呢！因此，到了這週，是在提醒我是該準備統整資料囉！不然就會來不及了，
+有點像趕快把燙手芋泥賣掉,，不然就要倒大楣了，又像是在諷刺說：平時不準備，事到臨頭才著急，可
+惜已經太晚啦！咎由自取。扯太遠了，這週的任務是尋找方法計算出 Nutcracker 機構 的有效運動距離，方
+法不限，總之，就是不管你運用何種方式，只要能求得答案行了。換句話說，雖然結果只有一個，但解決
+辦法確有很多種，只是看你想不想的到、用不用的到而已。&lt;/p&gt;
+&lt;p&gt;環環相扣 ~ ~ ~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度有跟上、資料統整還行、零件組裝不太行。&lt;/p&gt;
+&lt;p&gt;4.啟發： 很多事物都有異曲同工之處。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;http://wordpress-2015course.rhcloud.com/?p=4584&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W16 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/150401255" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W16 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/150140635" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十五</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w15%20-%20%2040323107.html" rel="alternate"></link><updated>2015-12-24T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-12-24:2015fallcadpa/2015cp_hw_w15 -  40323107.html</id><summary type="html">&lt;p&gt;公告：今天是平安夜喔！&lt;/p&gt;
+&lt;p&gt;以下為第十五週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest15.html" target="_blank"&gt;第十五週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w15&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第15週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4532  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;3.於&lt;code&gt;Onshape軟體&lt;/code&gt;網址創建帳號。&lt;/p&gt;
+&lt;p&gt;→&lt;a href="https://www.onshape.com/"&gt;Onshape軟體&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.說明&lt;code&gt;Onshape軟體&lt;/code&gt;的操作及功能。&lt;/p&gt;
+&lt;p&gt;5.利用 &lt;code&gt;Onshape軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)利用 Creo Parametric軟體 繪製零件。(※組別分配的零件為：BASE  和 CONNECTION  )
+(3)於 Onshape軟體 網址創建帳號。
+(4)閱讀與熟悉 Onshape軟體 的操作及功能。
+(5)利用 `Onshape軟體` 繪製 `Nutcracker 機構`。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件3： BASE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/BASE_3-3.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152475922" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件4： CONNECTION&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CONNECTION_4-4.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152476284" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W15  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w15_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w15_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.40323107 - Onshape軟體： &amp;lt;&lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;https://cad.onshape.com/documents?filter=recently-opened&amp;amp;column=modifiedAt&amp;amp;order=desc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7.a_g2_nutcracker： &amp;lt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十五週喔！這週為期末的第六次報告和作業，已經在倒數囉！&lt;/p&gt;
+&lt;p&gt;從這週開始運用新的軟體來繪製 Nutcracker 機構 囉！課程進度會跟上，不過我們組還是會執行自己安排的進度啦！
+反正就是有辦法兩者兼顧。另外，因為學習到新的知識(軟體)，讓人有種躍躍欲試的情緒呢！因此，廢話不多說、
+打鐵要趁熱，試吧！然而嘗試後，我覺得比 Creo Parametric軟體 還容易操作，感覺跟 Solid work 軟體 的操作方式很
+相似，但兩者間還是有差異姓啦！但說真的，簡單很多、容易上手，不過還是有困難的地方，例如：協同的部分
+讓人想到就頭昏腦脹的，難以理解，幸虧有高手幫忙才得以解脫，不過自己還是得慢慢去理解才行，因為人不能
+一昧的等待別人來告訴自己答案，而是必須自己去尋求答案，這麼一來學到的才會真的屬於你。總之，從這次的
+經驗哩，我領悟到很多道理也感覺獲益良多！ &lt;/p&gt;
+&lt;p&gt;Onshape 軟體真的滿有趣的 ~ ~ ~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度還行、資料統整還好、軟體操作尚可接受。&lt;/p&gt;
+&lt;p&gt;4.啟發：從學習中獲得經驗。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;http://wordpress-2015course.rhcloud.com/?p=4532&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.Onshape in Action 網址：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4549"&gt;http://wordpress-2015course.rhcloud.com/?p=4549&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;iframe src="https://player.vimeo.com/video/149940498" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十四</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w14%20-%20%2040323107.html" rel="alternate"></link><updated>2015-12-17T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-12-17:2015fallcadpa/2015cp_hw_w14 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十四週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest14.html" target="_blank"&gt;第十四週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w14&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第14週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.修改&lt;code&gt;fix檔&lt;/code&gt;與安裝&lt;code&gt;leo檔&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)利用 Creo Parametric軟體 繪製零件。(※組別分配的零件為：ADJUSTER_BASE  和 ADJUSTER  )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件1： ADJUSTER_BASE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_BASE_1-1.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152472555" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件2：ADJUSTER &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_2-2.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152472929" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W14  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w14_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w14_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十四週喔！這是期末的第五次團體報告與個人作業呢！已經逐漸接近尾聲了唷！&lt;/p&gt;
+&lt;p&gt;這週任務一樣是接續上週的進度，內容：各組組員互相協調後，利用 Creo Parametric軟體 
+來完成 Nutcracker 機構，並彙整資料，完成團體報告及個人作業。
+經過幾週的摸索後，對於 Creo Parametric軟體 我已經有點熟悉了，操作動作的順暢度也有提升呢！
+感覺變得比較有趣的說，真奇妙！之前或許是我跟它不熟識的關係，算啦！有趣就行了。
+後來我領悟到，其實只要你多接觸它、認識它，你就可以從中學到很多，也可以發現它的好處唷！
+總之，一切還可以，最後我只能說：付出的努力總算是有價值的啦！&lt;/p&gt;
+&lt;p&gt;付出的努力是有價值的！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還行、軟體操作尚可。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都要持之以恆。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( PS：參考&lt;/code&gt;W12&lt;code&gt;的課程網址，因為任務內容相同。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.雲端電腦輔助設計繪圖軟體：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4514"&gt;http://wordpress-2015course.rhcloud.com/?p=4514&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;iframe src="https://player.vimeo.com/video/148825230" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十三</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w13%20-%20%2040323107.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-12-10:2015fallcadpa/2015cp_hw_w13 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十三週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest13.html" target="_blank"&gt;第十三週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w13&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第13週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.下載檔案並安裝。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)修改 fix ，安裝 leo。
+(2)閱讀課程內容相關資訊。
+(3)利用 Creo Parametric軟體 繪製零件。( ※組別分配的任務為：Nutcracker 機構組裝 )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)機構組裝。&lt;/p&gt;
+&lt;p&gt;1.機構 3D 等角圖。&lt;code&gt;(open)&lt;/code&gt;&lt;br /&gt;
+&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.機構 3D 等角圖。&lt;code&gt;(close)&lt;/code&gt;&lt;br /&gt;
+&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;3.機構組裝影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152475136" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W13  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w13_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w13_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十三週喔！期末的第四次團體報告和個人作業呢！&lt;/p&gt;
+&lt;p&gt;這週任務為利用 Creo Parametric軟體 來完成 Nutcracker 機構，並統整出團體報告的資料。
+你是否有注意到呢？！其實這只是之前進度的延伸而已，已經持續好幾週囉！
+然而， Creo Parametric軟體 操作方面對於我來說還是覺得有難度，動作都不流暢，好難操作喔！
+有想放棄的念頭，但事情總是愛跟你唱反調，比如：當你以為快撐不住時，它偏偏就是撐住了，
+那你還能說什麼呢！總之，我會努力學習的，使我能在操作動作上更流暢，說真的，當你好不容
+易完成一個零件後，還是會感到很有成就感的。&lt;/p&gt;
+&lt;p&gt;Creo Parametric軟體真令人頭疼呀！好想用自己熟悉的繪圖軟體呀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題吧！？軟體操作普通、教導別人就有點困難了。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都要努力去嘗試。&lt;/p&gt;
+&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( PS：參考&lt;/code&gt;W12&lt;code&gt;的課程網址，因為任務內容相同。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W13 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/148455580" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W13 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/148458668" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十二</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w12%20-%20%2040323107.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-12-03:2015fallcadpa/2015cp_hw_w12 -  40323107.html</id><summary type="html">&lt;p&gt;公告：本週補課，補W11。&lt;/p&gt;
+&lt;p&gt;以下為第十二週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;第十二週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w12&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第12週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.下載檔案並安裝。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;code&gt;(※分工合作)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.承接上週&lt;code&gt;(w11)&lt;/code&gt;的課程內容。&lt;/p&gt;
+&lt;p&gt;5.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)安裝 leo。
+(2)閱讀課程內容相關資訊。
+(3)指定 Jupyter 的啟動目錄為 tmp。
+(4)利用`Creo Parametric軟體`繪製零件。(※組別分配的零件為：HINGE  和 PISTON )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件7： HINGE &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HINGE_7-7.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152470821" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件8： PISTON&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/PISTON_8-8.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152471254" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W12  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w12_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w12_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十二週喔！這是期末的第三次個人作業與團體報告囉！&lt;/p&gt;
+&lt;p&gt;這一週的課程內容跟上週的內容和任務差不多喔！所以，如果上週進度沒完成的話，就有可能影響到這週的進度。
+但也不用太擔心啦！還有範例可以參考嘛~~~不然也可以請教會做的人呀！
+說到這週的任務嘛！一方面是補齊前幾次的作業；一方面則是各組組員互相協調利用 Creo Parametric軟體 來完成 
+Nutcracker 機構，並繳交團體報告和整理個人作業。
+反正目前就是運用新的繪圖軟體來完成作業就是了，不過，你也可以嘗試使用之前所學習的繪圖軟體來繪圖啦！
+我覺得多方面嘗試是很好的行為唷！
+總之，接下來的進度就是繪製&lt;Nutcracker 機構&gt;的零件與組裝以及各組分工合作完成各週報告。
+最後，進度層面我還跟得上，而且，如果我有不懂的地方我也會請教同學或教授，所以我才跟得上教學進度。&lt;/p&gt;
+&lt;p&gt;團隊合作真的很重要！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85  分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還可以、教導別人可能不太行。&lt;/p&gt;
+&lt;p&gt;4.啟發： 分工合作的重要性。&lt;/p&gt;
+&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W12 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/147709308" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/147712937" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/147276192" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 4：
+ &lt;iframe src="https://player.vimeo.com/video/147279887" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十一</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w11%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-26T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-26:2015fallcadpa/2015cp_hw_w11 -  40323107.html</id><summary type="html">&lt;p&gt;公告：本週停課，調至W12晚上授課。&lt;/p&gt;
+&lt;p&gt;以下為第十一週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;第十一週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w11&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第11週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=3678  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.修改 fix.bat，安裝 leo。&lt;/p&gt;
+&lt;p&gt;3.修改 start.bat ，指定 Jupyter 的啟動目錄為 tmp。&lt;/p&gt;
+&lt;p&gt;4.創建組別的 leo。&lt;code&gt;( ※範例：g2.leo 或  G2.leo )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※PS：可參考 2015fallcadpb 倉儲 或 user 9999 倉儲 。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製&lt;code&gt;Nutcracker 機構&lt;/code&gt;零件。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)自行下載 fix檔案，並安裝 leo。
+(3)創建組別的 leo。(例如：g2.leo)(※獨立的)
+(4)利用`Creo Parametric軟體`繪製零件。(※組別分配的零件為：CYLINDER 和 HANDLE )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件5： CYLINDER &lt;/p&gt;
+&lt;p&gt;(1)零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt; &lt;/p&gt;
+&lt;p&gt;(2)零件 3D 圖。&lt;code&gt;(stl檔)&lt;/code&gt;&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CYLINDER_5-5.stl"&gt;&lt;/script&gt;  &lt;/p&gt;
+&lt;p&gt;(3)零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152468947" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件6： HANDLE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HANDLE_6-6.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152470110" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W11  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w11_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w11_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十一週唷！也是期末的第二次個人作業和團體報告呢！&lt;/p&gt;
+&lt;p&gt;這週的課程內容是沿用上週所教導的知識，然後再提升點困難度。
+ 內容則是在描述新版的投影片格式及運用對照法將A、B兩班的倉儲做比較與說明。
+ 關於上述的部分，我還不太能理解，所以我得花時間來研究研究才行。
+ 另外，若是按照教授的步驟進行的話，大致上進度還算尚可，卻會產生一些疑問呢！
+ 比如：創建組別的專屬 leo 時，就碰到一些障礙，最後還被我誤打誤撞弄成功的，感覺超不可思議的！
+ 但還是要利用時間自己摸索或請教其他人才行，不然問題一直擱在心裡也挺難受的，還是早點處理得好。
+ 還有，利用 Creo Parametric軟體 繪製零件的挑戰性滿高的，這個障礙也得克服才行。
+ 總之，這週的任務我是處於似懂非懂的狀態呢！但對於可以吸收到更多的知識，我還是很開心的，
+ 只是要做到學以致用可能需要很久吧！反正，先學習就是了。&lt;/p&gt;
+&lt;p&gt;學習，是為了走更長遠的路。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85  分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度有些疑問、資料統整還不夠完整、網頁管理有待加強。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都是一體兩面呢！&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3678"&gt;http://wordpress-2015course.rhcloud.com/?p=3678&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W11 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/146592105" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W11 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/146593944" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w10%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-19T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-19:2015fallcadpa/2015cp_hw_w10 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest10.html" target="_blank"&gt;第十週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w10&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.點選下列 &lt;code&gt;簽到處&lt;/code&gt; 做簽到確認。&lt;code&gt;( ※留言：到  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;→&lt;a href="http://calc-coursemdetw.rhcloud.com/dbo1p8g6ck"&gt;簽到處&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第10週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：&amp;lt;a href="http://wordpress-2015course.rhcloud.com/?p=3675"&amp;gt;http://wordpress-2015course.rhcloud.com/?p=3675&amp;lt;/a&amp;gt;  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.閱讀 &lt;code&gt;How to be a star engineer&lt;/code&gt; 的文章。&lt;code&gt;( ※中文翻譯版 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;→&lt;a href="https://www.copy.com/s/t%3AwgJdjvUO8IdQx2lC%3Bp%3A%252FHow_to_be_a_Star_Engineer.pdf%3Boid%3A192"&gt;How to be a star engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.下載與安裝檔案。&lt;code&gt;( fix 檔 和 leo 檔 )&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;5.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;( ※Creo Parametric軟體的路徑：C槽 / Ana3_2015 / data /  apps / creo2_64bit / Parametric / bin / parametric&lt;code&gt;(應用程式)&lt;/code&gt;。)&lt;code&gt;(此為中文版)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)點名簽到。
+(2)閱讀課程相關文章。
+(3)自行下載檔案，並安裝leo。
+(4)利用 Creo Parametric軟體 繪製 Nutcracker 機構。
+(5)各組協同完成 Nutcracker 機構。(任務分配)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(1)簽到證明。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/NxT8qrUZ9SZF0J3q"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;(2)修改 fix，安裝 leo的操作步驟。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1.開啟課程網頁。( 網址：http://wordpress-2015course.rhcloud.com/ )
+2.點選2015Fall課程。( 網址：http://wordpress-2015course.rhcloud.com/?page_id=3633 )
+3.點選遠端 copy 下載 fix 。( copy.com 網址： https://copy.com/zpYyuIcuB3fHAdr0 (fix.zip) )
+4.將 fix 檔案解壓縮，並儲存在 C 槽。
+5.使用 Google 瀏覽器 搜尋 leo editor github。
+6.點選 leo editor github 進入網頁。( 網址：https://github.com/leo-editor )
+7.點選 leo-editor 。( 網址：https://github.com/leo-editor/leo-editor )
+8.點選 releases 。 ( 網址：https://github.com/leo-editor/leo-editor/releases )
+9.點選 broke-abbrev 。( 網址：https://github.com/leo-editor/leo-editor/releases/tag/broke-abbrev )
+10.點選 Source code(zip) 。( 下載檔案，檔名為 leo-editor-broke-abbrev.zip )
+11.將 leo-editor-broke-abbrev.zip 檔案移至 fix 資料夾。
+12.到 Ana3_lite2\data\SciTE 搜尋 SciTE.exe ( 應用程式 )。
+13.開啟 SciTE.exe 。
+14.使用 SciTE.exe 編輯器 開啟 fix.bat 。
+15.在最後新增一行指令，指令為 copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\ 。
+16.儲存檔案。
+17.再使用 SciTE.exe 編輯器 開啟 start.bat 。
+18.將原指令 (第35行) pip install http://140.130.17.17/public/leo-editor-master.zip 更改為 pip install leo-editor-broke-abbrev.zip 。 
+19.再將原指令 (第30行) cd notebook 更改為 cd tmp 。( 意為：啟動 Jupyter 將自動讀取 tmp 資料夾裡的資訊。 ) 
+20.儲存檔案。
+21.點選開啟 fix.bat 。
+22.再點選開啟 start.bat 。
+23.成功開啟 leo 。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;(3)零件範例。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/B4yE3LaSQtJnLeCI"width="550"height="450"&gt;&lt;/p&gt;
+&lt;p&gt;(4)任務分配。&lt;code&gt;( ※利用 Creo Parametric 軟體 及 Onshape 軟體 繪製 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;w11( Creo Parametric 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：零件1、零件2
+40323106：零件3、零件4
+40323107：零件5、零件6
+40323146：零件7、零件8
+40323148：   零件組裝
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w12( Creo Parametric 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：零件3、零件4
+40323106：零件5、零件6
+40323107：零件7、零件8
+40323146：   零件組裝
+40323148：零件1、零件2
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w13( Creo Parametric 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：零件5、零件6
+40323106：零件7、零件8
+40323107：   零件組裝
+40323146：零件1、零件2
+40323148：零件3、零件4
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w14( Creo Parametric 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：零件7、零件8
+40323106：   零件組裝
+40323107：零件1、零件2
+40323146：零件3、零件4
+40323148：零件5、零件6
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w15( Creo Parametric 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：   零件組裝
+40323106：零件1、零件2 
+40323107：零件3、零件4
+40323146：零件5、零件6
+40323148：零件7、零件8
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w16( Onshape 軟體 )&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;40323105：零件5、零件6
+40323106：零件1、零件2
+40323107：零件7、零件8
+40323146：零件3、零件4
+40323148：   零件組裝
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十週喔！是期末的第一次個人作業與團體報告唷！&lt;/p&gt;
+&lt;p&gt;由於期中考剛過，因此這週的任務並不困難，主要在說明期末報告的規格，如：分組報告、個人報告...等。
+還有解釋課程的意義為何、教導如何修改 fix 安裝 leo、分組任務為何...等。
+還有說明分組後組員必須互相協同利用 Creo Parametric軟體 來完成 Nutcracker 機構，並完成每週的團體報告。
+另外，特別強調&lt;How to be a star engineer&gt;這篇文章的重要性呢！
+閱讀完與聆聽完教授的概述後，感覺似懂非懂呢！
+總之，這週的任務並不困難，只是要理解的資訊很多，需要花點時間來整理思緒而已。&lt;/p&gt;
+&lt;p&gt;學到好多知識與道理！！！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 90 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整不錯、內容豐富。&lt;/p&gt;
+&lt;p&gt;4.啟發： 不懂就要問、不會就要說、不知就要試。&lt;/p&gt;
+&lt;h2&gt;(四))其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3675"&gt;http://wordpress-2015course.rhcloud.com/?p=3675&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W10 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/145820006" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W10 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/145825547" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業九</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w9%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-12T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-12:2015fallcadpa/2015cp_hw_w9 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第九週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;第九週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w9  各週資料統整：&lt;/h1&gt;
+&lt;p&gt;w1&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1.創建 `Github `個人倉儲。 
+2.創建 `分支` 。
+3.創建 `測試網頁`。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w2&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;4.下載 fix 與 reveal-gh-pages 的檔案。
+5.複製 reveal-gh-pages 倉儲內容至個人倉儲裡。
+6.產生個人網頁與投影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w3&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;7.利用 leo 新增網頁與投影片。
+8.利用 leo 修改網頁與投影片內容。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w4&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;9.利用 solvespace 繪製零件。
+10.將零件圖片放到網頁或投影片中。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w5&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;11.下載 fix 與 reveal2-gh-pages 的檔案。
+12.進行網頁改版。
+13.編輯網頁與投影片內容。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w6&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;14.將自己加入全班協同倉儲中。
+15.進入全班協同倉儲中新增個人倉儲。
+16.利用 leo 新增全班協同個人網頁與投影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w7&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;17.統整各週網頁與投影片。
+18.修改衝突。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w8&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;19.確認各週作業的資料是否有齊全。
+20.自評。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;其他資料：&lt;/h2&gt;
+&lt;p&gt;w9 任務網址：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3673"&gt;http://wordpress-2015course.rhcloud.com/?p=3673&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業八</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w8%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-05T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-05:2015fallcadpa/2015cp_hw_w8 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第八週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;第八週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w8&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第8週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明如何將全班協同與個人網誌做連結。&lt;/p&gt;
+&lt;p&gt;3.說明期中評分規則。&lt;/p&gt;
+&lt;p&gt;4.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
+&lt;p&gt;5.說明 Creo Parametric 基本操作。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)資料統整。`( ※第 1 ~ 8 週 )`
+(2)全班協同網頁與個人網頁的連結。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;40323107 -  Pages：  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;http://40323107.github.io/2015fallcadpa/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323107 - Github：  &lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323107 - Class Pages：  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;http://2015fallhw.github.io/2015fallcadpa/user/40323107/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Class Github：  &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第八週喔！資料整理了嗎？交作業時間快到了唷！&lt;/p&gt;
+&lt;p&gt;這週任務並不難，只是系統容易出錯，導致進度有些阻礙而已，大致上沒問題，還能夠
+教導別人呢！但還是有新的知識要學，雖然一開始不太懂，但詢問過同學與教授加上自
+我嘗試後，我理解了，總之，雖然思緒待整理，但感覺很有趣、很有成就感。&lt;/p&gt;
+&lt;p&gt;全班協同倉儲的  &lt;code&gt;leo&lt;/code&gt; 真令人頭疼呀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還行、教導別人尚可。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都要小心謹慎、從討論中獲得答案&lt;/p&gt;
+&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
+&lt;p&gt;w8：  &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3670"&gt;http://wordpress-2015course.rhcloud.com/?p=3670&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;本週無教學影片。&lt;/code&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w7%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-29T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-29:2015fallcadpa/2015cp_hw_w7 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第七週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest7.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;第七週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w7&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第7週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明如何解決衝突與衝突的架構。&lt;/p&gt;
+&lt;p&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
+&lt;p&gt;4.說明如何同時運作&lt;code&gt;個人&lt;/code&gt;與&lt;code&gt;全班&lt;/code&gt;的倉儲修改。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀 Creo Parametric 基本操作 。
+(2)下載 `2015fallcadpa-gh-pages` 倉儲。
+(3)編輯 `全班` 協同的個人 `網頁` 內容。
+(4)學習如何解決衝突。
+(5)學習分析衝突架構。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;全班協同倉儲：   &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323107 - class pages：   &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;http://2015fallhw.github.io/2015fallcadpa/user/40323107/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;進入第七週課程了喔！進度有跟上吧！    &lt;/p&gt;
+&lt;p&gt;這週的任務是接續上週的問題，因此，課程內容差不多，只是多一點點問題罷了，所以，這週主要是教導我們如何
+解決衝突與認識衝突架構，就是因為這個步驟很容易被忽略掉，而導致連鎖效應，因此，經過上週的教訓與經歷，
+告訴我別輕視這個問題，很重&amp;gt; 要、很關鍵呀！所以我得學起來、記下來，避免再犯相同的錯.才行，其餘部份問題
+比較少、不嚴重，還能夠自我處理，總之，就是不斷的學習、不斷的吸收、彙整資料...等。&lt;/p&gt;
+&lt;p&gt;好多新知識喔！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85  分 。&lt;/p&gt;
+&lt;p&gt;3.理由：能夠自我處理。 &lt;/p&gt;
+&lt;p&gt;4.啟發：相信第六感，很準的、 知錯能改，善莫大焉&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
+&lt;p&gt;w7：   &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3667"&gt;http://wordpress-2015course.rhcloud.com/?p=3667&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;全班協同倉儲：   &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W7 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/143572506" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W7 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/143574887" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W7 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/143963816" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業六</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w6%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-22T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-22:2015fallcadpa/2015cp_hw_w6 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第六週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest6.html" target="_blank"&gt;第六週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w6&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第6週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明 Creo Parametric 基本操作。&lt;/p&gt;
+&lt;p&gt;3.說明如何全班協同。&lt;/p&gt;
+&lt;p&gt;4.說明如何於&lt;code&gt;全班&lt;/code&gt;協同倉儲新增&lt;code&gt;自己&lt;/code&gt;的倉儲。&lt;/p&gt;
+&lt;p&gt;5.製作全班協同的個人網頁。&lt;/p&gt;
+&lt;p&gt;6.下載  fix.zip 。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀 Creo Parametric 基本操作。
+(2)將`自己`加入`全班`協同倉儲中。
+(3)於全班協同倉儲中新增自己的倉儲。
+(4)產生全班協同倉儲的個人網頁。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;40323107 - class pages： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;http://2015fallhw.github.io/2015fallcadpa/user/40323107/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;課程進入到第六週囉！作業進度如何呢！？&lt;/p&gt;
+&lt;p&gt;這週的任務是做全班協同呢！是困難還是簡單，嘗試過後就知道，感覺有點躍躍
+欲試呢！那我要認真做筆記才行，然後，根據筆記的操作流程，順利的推出去
+了，也確認網頁建構成功，當下有種難以言喻的雀躍感與成就感呢！成功的瞬間
+令人心情舒暢呀！但心中卻有不好的預感，過沒多久，預感成真， leo 掛掉了，
+是該喜還是該悲呢！後來大家就一起討論，嘗試找出錯誤，因此，從中我吸收到
+新的知識與方法，感覺錯誤反而讓人學到更多知識，好複雜的情緒唷！另外，因
+為很快就完成自己的任務，所以嘗試著去幫助別人，從中獲得諸多感受，但可以
+確認的是幫助別人對自己是有好處的，可以幫助自己快速的理解並加深印象、熟
+悉流程...等，總之，這一週的表現還不錯。    &lt;/p&gt;
+&lt;p&gt;這樣的結果是要開心還是難過呢！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：88 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 表現的還不錯，還有幫助別人。&lt;/p&gt;
+&lt;p&gt;4.啟發：沒問題就是有問題、成功為失敗的開端、凡事都要小心謹慎、助人為快樂之本喔 ！&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
+&lt;p&gt;w6： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3664"&gt;http://wordpress-2015course.rhcloud.com/?p=3664&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creo Parametric：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4146"&gt;http://wordpress-2015course.rhcloud.com/?p=4146&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;全班協同倉儲： &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;全班協同網頁： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/"&gt;http://2015fallhw.github.io/2015fallcadpa/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W6 - 1：
+ &lt;iframe src=" https://player.vimeo.com/video/143225578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業五</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w5%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-15T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-15:2015fallcadpa/2015cp_hw_w5 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第五週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;第五週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w5&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第5週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明 &lt;code&gt;〝如何從作業自評中取分〞&lt;/code&gt; 這篇文章。&lt;/p&gt;
+&lt;p&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
+&lt;p&gt;4.說明如何將&lt;code&gt;個人網頁&lt;/code&gt;做改版。&lt;/p&gt;
+&lt;p&gt;5.說明如何利用 &lt;code&gt;git rm&lt;/code&gt;刪除網頁。&lt;/p&gt;
+&lt;p&gt;6.說明何謂 &lt;code&gt;〝對等生產模式〞&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;7.影片觀賞。&lt;/p&gt;
+&lt;p&gt;8.下載 &lt;code&gt;reveal2-gh-pages 倉儲&lt;/code&gt; 與  &lt;code&gt;fix&lt;/code&gt; 檔案 。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載  reveal2-gh-pages 與  fix 的檔案。
+(2)個人網頁改版。`( ※ reveal → reveal2，稍作修改即可 。 )`
+(3)閱讀相關文章。`(  ※Creo Parametric )`
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;40323107 -  Pages - old；  &lt;a href="http://40323107.github.io/2015cadpw1/"&gt;http://40323107.github.io/2015cadpw1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323107 -  Pages - new： &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;http://40323107.github.io/2015fallcadpa/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;時間流逝的真快呀！不知不覺間就來到第五週啦！這週要探討什麼呢！？&lt;/p&gt;
+&lt;p&gt;這週吸收很多資訊呢！腦容量有點承受不住，但我會盡量理解並學以致用的，關於任務，大至上沒問題，很順利的
+改版成功並新增內容呢！另外，對於利用 git 指令刪除檔案，有點懂又不太懂，就是盡量做到〝只增不刪〞就不會產&amp;gt; 生大問題了，還有關於 Creo Parametric 基本操作，還在理解中，但整體架構跟 SolidWorks 軟體很像呢！就是不知道操
+作模式是否雷同，反正〝試〞就對了，總之，整體而言，還可以，有問題我會請教同學與教授的。    &lt;/p&gt;
+&lt;p&gt;每個步驟都要小心謹慎呢！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：80 分 。&lt;/p&gt;
+&lt;p&gt;3.理由：整體而言，任務順利完成。&lt;/p&gt;
+&lt;p&gt;4.啟發：遇到問題要勇敢面對、你的成功是建構在別人的失敗上、凡事都要大膽嘗試，才能從中得到答案&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址：&lt;/p&gt;
+&lt;p&gt;w5：  &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3660"&gt;http://wordpress-2015course.rhcloud.com/?p=3660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creo Parametric： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4146"&gt;http://wordpress-2015course.rhcloud.com/?p=4146&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作業自評取分重點：  &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4148"&gt;http://wordpress-2015course.rhcloud.com/?p=4148&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W5 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/142093273" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W5 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/142093479 " width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W5 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/142098889 " width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w4%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-08T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-08:2015fallcadpa/2015cp_hw_w4 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第四週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;第四週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w4&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;(※針對〝 2015Fall CADPA 第4週 〞文章 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明 &lt;code&gt;Ipthon&lt;/code&gt; 與 &lt;code&gt;Jupyter&lt;/code&gt; 的差異。&lt;/p&gt;
+&lt;p&gt;3.說明&lt;code&gt;變頻&lt;/code&gt;的原理。
+&lt;code&gt;(※冷氣)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.說明如何下載 &lt;code&gt;solvespace 2.1&lt;/code&gt;版 ，並繪圖。&lt;/p&gt;
+&lt;p&gt;5.利用 solvespace 繪圖。
+&lt;code&gt;(※學生)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.solvespace 繪圖教學。
+&lt;code&gt;(※教授)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;7.提供學習語言的優先順序。
+&lt;code&gt;( ※ Javascript → python → c 或 c++ → Java )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;(※作業)&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載 solvespace 2.1版。
+(2)利用 solvespace 繪圖。
+(3)閱讀相關文章。`(※Ipthon、Jupyter、solvespace)`
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;code&gt;( ※圖片 )&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="images/01.PNG" width="500" alt="零件"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/10.08.PNG" width="500" alt="零件"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;教學影片：&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得： &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週是第四週，有增加新的課程內容喔！&lt;/p&gt;
+&lt;p&gt;這週主要任務是利用 solvespace 繪製零件，一開始認為很簡單，結果慘不忍賭呢！還好有老師的現場教學才能順利完
+成任務，看來這次是把事情簡單化了，總之，經過教授的解說，至少知道 solvespace 的基本指令與操作，其他部分就
+要靠自己去理解與摸索了，經過這次教學，讓我深刻的領悟到英文真的很重要啊！ &lt;/p&gt;
+&lt;p&gt;這週主要任務是繪圖零件喔！很有趣的說。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，都有跟上進度。&lt;/p&gt;
+&lt;p&gt;4.啟發： 學習要專注、學習要持之以恆、英文能力很重要&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
+&lt;p&gt;w4： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3657"&gt;http://wordpress-2015course.rhcloud.com/?p=3657&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Solvespace： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3971"&gt;http://wordpress-2015course.rhcloud.com/?p=3971&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W4 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/141762531" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W4 - 2：
+ &lt;iframe src=" https://player.vimeo.com/video/141370058" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業三</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w3%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-01T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-01:2015fallcadpa/2015cp_hw_w3 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第三週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;第三週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w3&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第3週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明&lt;code&gt;科學&lt;/code&gt;與&lt;code&gt;工程&lt;/code&gt;的差異。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;科學：探究自然界〝已存在 〞的原則或原理。
+工程：,研究〝不存在〞的事物，以不違反原則下創造。(ex：飛機製造)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;code&gt;( ※ps：利用 方程式運算來解釋科學原理  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.下載 &lt;code&gt;fix&lt;/code&gt; 與 &lt;code&gt;reveal - gh-pages&lt;/code&gt; 檔案。&lt;/p&gt;
+&lt;p&gt;4.說明如何&lt;code&gt;新增&lt;/code&gt;網頁與投影片。&lt;/p&gt;
+&lt;p&gt;5.說明如何&lt;code&gt;編輯&lt;/code&gt;個人投影片。
+&lt;code&gt;( ※投影片格式 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.說明 &lt;code&gt;notebook.py&lt;/code&gt; 文章與如何修改。&lt;/p&gt;
+&lt;p&gt;7.,說明 &lt;code&gt;solvespace&lt;/code&gt; 文章與基本操作。&lt;/p&gt;
+&lt;p&gt;8.下載 solvespace 軟體。&lt;/p&gt;
+&lt;p&gt;9.說明如何利用 git 指令刪除檔案。
+&lt;code&gt;( ※ 指令：git rm 檔名 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;10.下載課程教學影片。&lt;code&gt;( ※搜尋：192.168.1.35:8000 )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。
+(2)新增個人網頁與投影片。
+(3)編輯個人投影片。
+(4)修改 notebook.py 。
+(5)下載 solvespace 軟體與閱讀說明書。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;40323107 - Github ：&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323107 -  Pages ： &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;http://40323107.github.io/2015fallcadpa/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本課程以進入第三週囉！筆記要記得整理唷！&lt;/p&gt;
+&lt;p&gt;這週獲得好多知識喔！如：新增網頁與投影片、編輯投影片格式...等，也學到新的軟體 solvespace 呢！solvespace整體
+架構有點像 Auto CAD，可惜的是 英文版 的，還有，操作方式也不太一樣，總之，好像有難度，所以還需要研究與理&amp;gt; 解，另外，編輯自己的投影片就是改變格式(可上下左右翻閱)，超有趣的，總之，獲益良多。&lt;/p&gt;
+&lt;p&gt;新軟體： solvespace，是一個繪圖軟體唷！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：88 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 任務有確實完成。&lt;/p&gt;
+&lt;p&gt;4.啟發： 學以致用、凡事都要積極的嘗試    &lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址：&lt;/p&gt;
+&lt;p&gt;w3：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3650"&gt;http://wordpress-2015course.rhcloud.com/?p=3650&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;notebook：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4054"&gt;http://wordpress-2015course.rhcloud.com/?p=4054&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Solvespace：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3971"&gt;http://wordpress-2015course.rhcloud.com/?p=3971&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W3 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/141021392" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W3 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/141024439" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W3 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/141026116" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業二</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w2%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-24T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-24:2015fallcadpa/2015cp_hw_w2 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第二週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;第二週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w2&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015 Fall CADPA 第2週 〞文章 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明如何安裝 &lt;code&gt;leo&lt;/code&gt;。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;方法一：
+    使用 pip install 的指令安裝 leo。*(※在 `cmd` 裡)*
+    ( ※操作：start → cmd → 輸入 pip install `leo editor github 的倉儲網址`或 `leo editor github 的壓縮檔名` → enter 。 )
+方法二：
+    使用 SciTE 安裝 leo。
+    ( ※操作：start → SciTE → 打開`launchLeo.py` → Options → python.properties → 把`command.go.`修改為`Y:\Anaconda3\pythonw -u`→ File：save → 返回 `launchLeo.py` → Tools：Go → 完成。)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;3.說明 &lt;code&gt;git clone&lt;/code&gt; 與 &lt;code&gt;download&lt;/code&gt; 的差異。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;git clone：
+    → `複製`別人的倉儲內容 - `全部` 。
+download：
+     → `下載`別人的倉儲內容 - `指定` 。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;4.檢查 launchLeo.py。
+&lt;code&gt;( ※利用 Sci TE )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.創建新倉儲。
+&lt;code&gt;( ※為w1進度，完成者則免 )&lt;/code&gt;
+&lt;code&gt;( ※操作：Github → New Repository → Repository name：2015fallcadpa → 將 Initialize this repository with a README 打勾 →  按 Create Repository → 完成。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.下載老師的&lt;code&gt;reveal.js&lt;/code&gt; 倉儲。
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/reveal )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;7.複製&lt;code&gt;reveal.js倉儲&lt;/code&gt;的&lt;code&gt;內容&lt;/code&gt;至&lt;code&gt;自己&lt;/code&gt;的倉儲。
+&lt;code&gt;(※除README.md)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;8.下載課程影片。
+&lt;code&gt;(※搜尋：192.168.1.35:8000)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;(※操作步驟： cmd → python -m http.server)&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)安裝 leo - editor 。
+(2)修改內部資料。( 如：launchLeo.py )
+(3)完成w1進度。( ※w1進度：創建`個人`倉儲 )
+(4)新增`個人`倉儲內容。( ※如：網頁、投影片...等 )
+(5)下載課程影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(1)Github個人&lt;code&gt;倉儲&lt;/code&gt;網址：&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(2)Github個人&lt;code&gt;網頁&lt;/code&gt;網址：&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;http://40323107.github.io/2015fallcadpa/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第二週喔！主要是接續第一週的任務內容呢！&lt;/p&gt;
+&lt;p&gt;這週是接續上週的任務內容，教導(解決)我們如何創建倉儲與安裝 leo，新的任務則是增加倉儲內容，結論，當我們完&amp;gt; 成這週任務的時候，必須要有&lt;code&gt;個人Github倉儲&lt;/code&gt;、&lt;code&gt;個人網頁&lt;/code&gt;、&lt;code&gt;投影片&lt;/code&gt;...等，總之，整體而言，都能理解，只是還需
+要多研究與操作，理清思緒就行了，其實沒有很困難，是我們想太多、搞太複雜、做太少而已。&lt;/p&gt;
+&lt;p&gt;遇到問題，不要逃避問題、要勇敢面對問題、要勇敢表達與提問。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：88 分 。&lt;/p&gt;
+&lt;p&gt;3.理由：整體而言，都能理解，只是需要多研究與操作。&lt;/p&gt;
+&lt;p&gt;4.啟發：「知識」是別人所贈與的，「經驗」是自己所擁有的。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址：&lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3641"&gt;http://wordpress-2015course.rhcloud.com/?p=3641&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W2 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/139886319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/139890840" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/139892322" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 4：
+ &lt;iframe src="https://player.vimeo.com/video/139893872" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業一</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_hw_w1 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第一週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest1.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest1.html" target="_blank"&gt;第一週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w1&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.下載“ Ana3_2015 ”檔案，並簡略說明。
+&lt;code&gt;( ※路徑： 學校電腦 → C槽 → Ana3_2015檔  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.登入課程網址，並閱讀課程相關文章。
+&lt;code&gt;( ※課程網址：http://wordpress-2015course.rhcloud.com/  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第1週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=3637  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.點選文章中的 reveal.js 倉儲。
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/reveal )&lt;/code&gt;
+&lt;code&gt;( ※對應的 github pages：demo，cadpaw1.html  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.嘗試在近端與遠端上輸出字串 。
+&lt;code&gt;( ※例： print("hello")  )&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;方法一：
+    於近端桌面開啟 &amp;quot;start&amp;quot; ，跳出 jupyter 網頁，輸入密碼(2015cp)進行登入，操作 (輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello)。
+     (※操作：jupyter → new → python 3 → print(&amp;quot;hello&amp;quot;) → cell → run → hello 。 )
+方法二：
+     於近端桌面開啟 &amp;quot;start&amp;quot;，運用 &amp;quot; cmd &amp;quot; ，輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello 。
+     (※操作：cmd →  print(&amp;quot;hello&amp;quot;) → enter → hello 。 )
+方法三：
+    於近端桌面開啟 &amp;quot;start&amp;quot;，運用 &amp;quot; SciTE &amp;quot; ，輸入 print(&amp;quot;hello&amp;quot;)，存檔，輸出 hello。
+    (※操作：SciTE → print(&amp;quot;hello&amp;quot;) → File - save → Tools - Go →  hello 。 )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;code&gt;(PS：由此可知，一個答案有多種解法。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
+&lt;p&gt;7.學習如何於近端 &lt;code&gt;cmd&lt;/code&gt; 創建 &lt;code&gt;Github&lt;/code&gt; 的分支 &lt;code&gt;gh-pages&lt;/code&gt;，再推送至遠端 &lt;code&gt;Github&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;8.於〝Google〞輸入 "192.168.1.35:8000 "，下載資料。
+&lt;code&gt;( ※操作：cmd → python -m http.server)&lt;/code&gt;
+&lt;code&gt;( ※資料：課程教學影片。 )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)輸出字串。( ※字串為 Hello ) 
+(2)建立個人 Github 課程倉儲 。( ※名稱為 2015cadp )
+(3)使用 Git 在近端建立分支，並推送至遠端。( ※運用 git branch )
+(4)使用 SciTE 新增網頁，並利用 git 推送至 Github。( ※網頁：index.html )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(1)Github個人倉儲網址：&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(2)測試網頁網址：https://www.google.com.tw&lt;/p&gt;
+&lt;p&gt;(3)自製教學影片：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;w1-1 → 如何輸出字串
+w1-2 → 如何創建倉儲
+w1-3 → 如何新建分支
+w1-4 → 如何新建網頁
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為開學第一週喔！換句話說：就是這個課程第一次上課呢！&lt;/p&gt;
+&lt;p&gt;一開始，說明使用之軟體、使用之網站、教學與作業進度、注意事項...等，總而 
+言之，就是例行公事啦！然後進入正題，開始說明第一週課程內容，因此，對於 
+作業與任務感覺上是懂非懂，雖然上課有做筆記，也有教學影片提供參考，但實
+際操作還是有問題，如：可創建倉儲，卻無法顯示網頁(指〝.html〞)，我嘗試很多
+次以及幫助別人創建倉儲，但還是都失敗了，經過查證後(詢問教授/老師)，並非
+操作流程錯誤，而是倉儲認證未通過，結論，只要認證通過就能成功，經過這次
+的經歷，讓我印象非常深刻呢！但也從中吸收到新的知識，更讓我領悟出一些道
+理呢！&lt;/p&gt;
+&lt;p&gt;這算不算一個好的開始呢？！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 90 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，能夠掌握，只是有些許疑問，但不影響。&lt;/p&gt;
+&lt;p&gt;4.啟發： 失敗為成功之母、熟能生巧、持之以恆。&lt;/p&gt;
+&lt;h2&gt;(四) 補充說明：&lt;/h2&gt;
+&lt;p&gt;1.git 指令與涵義 &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;使用者認證。
+    → git config --global user.name &amp;quot;40323107&amp;quot;  ( 使用者姓名 )
+    → git config --global user.email 40323107@gm.nfu.edu.tw  ( 使用者信箱 )
+    → git config -l  ( 驗證身分 )  or git config --list ( 設定內容 )
+下載倉儲。
+    → git clone 網址  ( 複製你需要的倉儲網址 )
+進入倉儲。
+    → cd 檔名  ( 倉儲的名稱 )
+將想要快照的內容寫入暫存區。
+    → git add . 或 git add -A
+實際儲存快照又稱為提交。
+    → git commit -m &amp;quot;檔名&amp;quot;  ( 檔名可為提交的內容簡敘 )
+退出倉儲。
+    → cd ..
+檢查分支。
+    → git branch
+創建分支。
+    → git branch gh-pages 
+切換分支。
+    → git checkout gh-pages or git co gh-pages
+內部命令，顯示某個磁碟指定目錄下的全部或部分檔案目錄和子目錄。
+    → dir 
+將資料指定〝推〞送至遠端的分支。
+    → git push origin gh-pages
+將指定資料〝拉〞至近端。
+    → git pull origin gh-pages
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.操作流程簡敘：
+&lt;code&gt;( ※創建網頁流程。 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;start → cmd → 使用者認證 → 下載倉儲 → 進入倉儲 → 檢查、建立、切換分支 → dir → SciTE - index.html → 暫存 → 提交 → 推送至分支 → 完成。   &lt;/p&gt;
+&lt;h2&gt;(五)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3637"&gt;http://wordpress-2015course.rhcloud.com/?p=3637&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W1 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/140277188" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/140281702" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
+&lt;p&gt;4.Sci TE 的內容： &lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.圖片連結測試：
+&lt;code&gt;操作方式：放入圖檔，可以直接利用 html 的 img 標註。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/1.jpeg" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;6.影片連結測試：
+&lt;code&gt;操作方式：Vimeo 影片嵌入，直接從 Vimeo 影片上的 Share 複製 html 碼。&lt;/code&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 相關資料</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_note1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T12:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_note1 -  40323107.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Jupyter
+&lt;/em&gt;導入 notebook 內容&lt;/p&gt;
+&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[24]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;IPython&lt;/span&gt;
+&lt;span class="n"&gt;IPython&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;version_info&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[24]:&lt;/div&gt;
+
+
+&lt;div class="output_text output_subarea output_execute_result"&gt;
+&lt;pre&gt;(4, 0, 0, &amp;apos;&amp;apos;)&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[25]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;install_ext&lt;/span&gt; https://raw.github.com/kikocorreoso/brythonmagic/master/brythonmagic.py
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;Installed brythonmagic.py. To use it, type:
+  %load_ext brythonmagic
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[26]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;load_ext&lt;/span&gt; brythonmagic
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;The brythonmagic extension is already loaded. To reload it, use:
+  %reload_ext brythonmagic
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[27]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;HTML&lt;/span&gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;http://brython.info/src/brython_dist.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+
+&lt;div class="output_html rendered_html output_subarea "&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[29]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;brython&lt;/span&gt; -c my_container
+# 假如要列出所產生的 html 則使用 -p
+from browser import doc, html
+
+# This will be printed in the js console of your browser
+print(&amp;#39;Hello world!&amp;#39;)
+
+# This will be printed in the container div on the output below
+doc[&amp;quot;my_container&amp;quot;] &amp;lt;= html.P(&amp;quot;文字位於 div 標註內&amp;quot;, 
+                              style = {&amp;quot;backgroundColor&amp;quot;: &amp;quot;cyan&amp;quot;})
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+
+&lt;div class="output_html rendered_html output_subarea "&gt;
+  &lt;script id="200015" type="text/python"&gt;
+# 假如要列出所產生的 html 則使用 -p
+from browser import doc, html
+
+# This will be printed in the js console of your browser
+print('Hello world!')
+
+# This will be printed in the container div on the output below
+doc["my_container"] &lt;= html.P("文字位於 div 標註內", 
+                              style = {"backgroundColor": "cyan"})
+  &lt;/script&gt;
+  &lt;div id="my_container"&gt;&lt;/div&gt;
+  &lt;script type="text/javascript"&gt;brython({debug:1, static_stdlib_import: false, ipy_id: ["200015"]});&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[30]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="o"&gt;%%&lt;/span&gt;&lt;span class="k"&gt;brython&lt;/span&gt; -c canvas_example
+from browser.timer import request_animation_frame as raf
+from browser.timer import cancel_animation_frame as caf
+from browser import doc, html
+from time import time
+import math
+
+# First we create a table to insert the elements
+table = html.TABLE(cellpadding = 10)
+btn_anim = html.BUTTON(&amp;#39;Animate&amp;#39;, Id=&amp;quot;btn-anim&amp;quot;, type=&amp;quot;button&amp;quot;)
+btn_stop = html.BUTTON(&amp;#39;Stop&amp;#39;, Id=&amp;quot;btn-stop&amp;quot;, type=&amp;quot;button&amp;quot;)
+cnvs = html.CANVAS(Id=&amp;quot;raf-canvas&amp;quot;, width=256, height=256)
+
+table &amp;lt;= html.TR(html.TD(btn_anim + btn_stop) +
+                 html.TD(cnvs))
+
+doc[&amp;#39;canvas_example&amp;#39;] &amp;lt;= table
+# Now we access the canvas context
+ctx = doc[&amp;#39;raf-canvas&amp;#39;].getContext( &amp;#39;2d&amp;#39; ) 
+
+# And we create several functions in charge to animate and stop the draw animation
+toggle = True
+
+def draw():
+    t = time() * 3
+    x = math.sin(t) * 96 + 128
+    y = math.cos(t * 0.9) * 96 + 128
+    global toggle
+    if toggle:
+        toggle = False
+    else:
+        toggle = True
+    ctx.fillStyle = &amp;#39;rgb(200,200,20)&amp;#39; if toggle else &amp;#39;rgb(20,20,200)&amp;#39;
+    ctx.beginPath()
+    ctx.arc( x, y, 6, 0, math.pi * 2, True)
+    ctx.closePath()
+    ctx.fill()
+
+def animate(i):
+    global id
+    id = raf(animate)
+    draw()
+
+def stop(i):
+    global id
+    print(id)
+    caf(id)
+
+doc[&amp;quot;btn-anim&amp;quot;].bind(&amp;quot;click&amp;quot;, animate)
+doc[&amp;quot;btn-stop&amp;quot;].bind(&amp;quot;click&amp;quot;, stop)
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+
+&lt;div class="output_html rendered_html output_subarea "&gt;
+  &lt;script id="921726" type="text/python"&gt;
+from browser.timer import request_animation_frame as raf
+from browser.timer import cancel_animation_frame as caf
+from browser import doc, html
+from time import time
+import math
+
+# First we create a table to insert the elements
+table = html.TABLE(cellpadding = 10)
+btn_anim = html.BUTTON('Animate', Id="btn-anim", type="button")
+btn_stop = html.BUTTON('Stop', Id="btn-stop", type="button")
+cnvs = html.CANVAS(Id="raf-canvas", width=256, height=256)
+
+table &lt;= html.TR(html.TD(btn_anim + btn_stop) +
+                 html.TD(cnvs))
+
+doc['canvas_example'] &lt;= table
+# Now we access the canvas context
+ctx = doc['raf-canvas'].getContext( '2d' ) 
+
+# And we create several functions in charge to animate and stop the draw animation
+toggle = True
+
+def draw():
+    t = time() * 3
+    x = math.sin(t) * 96 + 128
+    y = math.cos(t * 0.9) * 96 + 128
+    global toggle
+    if toggle:
+        toggle = False
+    else:
+        toggle = True
+    ctx.fillStyle = 'rgb(200,200,20)' if toggle else 'rgb(20,20,200)'
+    ctx.beginPath()
+    ctx.arc( x, y, 6, 0, math.pi * 2, True)
+    ctx.closePath()
+    ctx.fill()
+
+def animate(i):
+    global id
+    id = raf(animate)
+    draw()
+
+def stop(i):
+    global id
+    print(id)
+    caf(id)
+
+doc["btn-anim"].bind("click", animate)
+doc["btn-stop"].bind("click", stop)
+  &lt;/script&gt;
+  &lt;div id="canvas_example"&gt;&lt;/div&gt;
+  &lt;script type="text/javascript"&gt;brython({debug:1, static_stdlib_import: false, ipy_id: ["921726"]});&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[&amp;nbsp;]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt; 
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[1]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# print 函式可以列印字串&lt;/span&gt;
+&lt;span class="c"&gt;# 用雙引號或單引號或三引號圈起的內容就是字串&lt;/span&gt;
+&lt;span class="c"&gt;# 利用 print 列印單一 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印3個 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;***&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;***
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[3]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 利用 print 列印空白與 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; *&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;  *&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+ *
+  *
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[4]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# 可以用乘號列印五個 *&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*****
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[5]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="c"&gt;# for 迴圈可以透過 iterator 逐一執行迴圈內容&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;0
+1
+2
+3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[6]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+2
+3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[7]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印不等於 3 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+2
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[8]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印用 2 除可以整除的偶數&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;2&lt;/span&gt; == 0:
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;2
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[9]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 3 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[10]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 3 或者小於 2 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;1
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[11]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 只列印大於 2 且小於 5 的數值&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;3
+4
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[12]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+**
+***
+****
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[13]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*****
+****
+***
+**
+*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[14]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;# 請利用 help(print) 檢視 print 函式用法&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;*
+ *
+  *
+   *
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[15]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;    *
+   *
+  *
+ *
+*
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[16]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;    *    
+   * *   
+  *   *  
+ *     * 
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[17]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        * *        
+       *   *       
+      *     *      
+     *       *     
+    *         *    
+   *           *   
+  *             *  
+ *               * 
+*                 *
+ *               * 
+  *             *  
+   *           *   
+    *         *    
+     *       *     
+      *     *      
+       *   *       
+        * *        
+         *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[18]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        ***        
+       *****       
+      *******      
+     *********     
+    ***********    
+   *************   
+  ***************  
+ ***************** 
+*******************
+ ***************** 
+  ***************  
+   *************   
+    ***********    
+     *********     
+      *******      
+       *****       
+        ***        
+         *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[19]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        * *        
+       *   *       
+      *     *      
+     *       *     
+    *         *    
+   *           *   
+  *             *  
+ *               * 
+*                 *
+ *               * 
+  *             *  
+   *           *   
+    *         *    
+     *       *     
+      *     *      
+       *   *       
+        * *        
+         *         
+    a    
+   a a   
+  a   a  
+ a     a 
+a       a
+ a     a 
+  a   a  
+   a a   
+    a    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[20]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;diamond&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;s&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;         *         
+        ***        
+       *****       
+      *******      
+     *********     
+    ***********    
+   *************   
+  ***************  
+ ***************** 
+*******************
+ ***************** 
+  ***************  
+   *************   
+    ***********    
+     *********     
+      *******      
+       *****       
+        ***        
+         *         
+    a    
+   aaa   
+  aaaaa  
+ aaaaaaa 
+aaaaaaaaa
+ aaaaaaa 
+  aaaaa  
+   aaa   
+    a    
+    s    
+   sss   
+  sssss  
+ sssssss 
+sssssssss
+ sssssss 
+  sssss  
+   sss   
+    s    
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[21]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;菱形&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;數列1&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="n"&gt;數列2&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列1)&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列2)&lt;/span&gt;
+    &lt;span class="n"&gt;數列3&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;數列1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;數列2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;數列3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+            &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;數列4&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="n"&gt;數列5&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)]&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列4)&lt;/span&gt;
+    &lt;span class="c"&gt;#print(數列5)&lt;/span&gt;
+    &lt;span class="n"&gt;數列6&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;數列4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;數列5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;數列6&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+            &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;end&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;
+&lt;span class="n"&gt;菱形&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;          *         
+         * *        
+        *   *       
+       *     *      
+      *       *     
+     *         *    
+    *           *   
+   *             *  
+  *               * 
+ *                 *
+  *               * 
+   *             *  
+    *           *   
+     *         *    
+      *       *     
+       *     *      
+        *   *       
+         * *        
+          *         
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[22]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;請設法利用上述程式片段, 列印下列字串圖案:&lt;/span&gt;
+
+&lt;span class="sd"&gt;*&lt;/span&gt;
+&lt;span class="sd"&gt;**&lt;/span&gt;
+&lt;span class="sd"&gt;***&lt;/span&gt;
+&lt;span class="sd"&gt;****&lt;/span&gt;
+&lt;span class="sd"&gt;*****&lt;/span&gt;
+&lt;span class="sd"&gt;****&lt;/span&gt;
+&lt;span class="sd"&gt;***&lt;/span&gt;
+&lt;span class="sd"&gt;**&lt;/span&gt;
+&lt;span class="sd"&gt;*&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*&lt;/span&gt;
+&lt;span class="sd"&gt; *&lt;/span&gt;
+&lt;span class="sd"&gt;  *&lt;/span&gt;
+&lt;span class="sd"&gt;   *&lt;/span&gt;
+&lt;span class="sd"&gt;    *&lt;/span&gt;
+&lt;span class="sd"&gt;   *&lt;/span&gt;
+&lt;span class="sd"&gt;  *&lt;/span&gt;
+&lt;span class="sd"&gt; *&lt;/span&gt;
+&lt;span class="sd"&gt;*&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *   &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    * &lt;/span&gt;
+&lt;span class="sd"&gt;    &lt;/span&gt;
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+
+&lt;span class="sd"&gt;以及&lt;/span&gt;
+
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    *    &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;    * &lt;/span&gt;
+&lt;span class="sd"&gt;   * *   &lt;/span&gt;
+&lt;span class="sd"&gt;  *   *  &lt;/span&gt;
+&lt;span class="sd"&gt; *     * &lt;/span&gt;
+&lt;span class="sd"&gt;*       *&lt;/span&gt;
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[22]:&lt;/div&gt;
+
+
+&lt;div class="output_text output_subarea output_execute_result"&gt;
+&lt;pre&gt;&amp;apos;請設法利用上述程式片段, 列印下列字串圖案:\n\n*\n**\n***\n****\n*****\n****\n***\n**\n*\n\n以及\n\n*\n *\n  *\n   *\n    *\n   *\n  *\n *\n*\n\n以及\n\n    *    \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    *   \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    * \n    \n以及\n\n*       *\n *     * \n  *   *  \n   * *   \n    *    \n   * *   \n  *   *  \n *     * \n*       *\n\n以及\n\n*       *\n *     * \n  *   *  \n   * *   \n    *    \n   * *   \n  *   *  \n *     * \n*       *\n *     * \n  *   *  \n   * *   \n    * \n   * *   \n  *   *  \n *     * \n*       *\n&amp;apos;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry></feed>
