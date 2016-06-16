@@ -25,7 +25,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="amd.20150919114035.1"><vh>@edit 2016cdhww1.md</vh></v>
 <v t="leo.20151115135557.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151115220721.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151115220851.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -35,18 +35,17 @@
 <v t="leo.20151115220926.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="leo.20151115220945.1"><vh>@edit 2015cphww9.md</vh></v>
 <v t="leo.20151119131311.1"><vh>@edit 2015cphww10.md</vh></v>
-<v t="leo.20151201231236.1"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo.20151201232631.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="leo.20151201233430.1"><vh>@edit 2015cphww13.md</vh></v>
-<v t="leo.20151201233442.1"><vh>@edit 2015cphww14.md</vh></v>
-<v t="leo.20151201233448.1"><vh>@edit 2015cphww15.md</vh></v>
-<v t="leo.20151201233454.1"><vh>@edit 2015cphww16.md</vh></v>
-<v t="leo.20151201233501.1"><vh>@edit 2015cphww17.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151201231236.1"><vh>@edit 2016cdhww11.md</vh></v>
+<v t="leo.20151201232631.1"><vh>@edit 2016cdhww12.md</vh></v>
+<v t="leo.20151201233430.1"><vh>@edit 2016cdhww13.md</vh></v>
+<v t="leo.20151201233442.1"><vh>@edit 2016cdhww14.md</vh></v>
+<v t="leo.20151201233448.1"><vh>@edit 2016cdhww15.md</vh></v>
+<v t="leo.20151201233454.1"><vh>@edit 2016cdhww16.md</vh></v>
+<v t="leo.20151201233501.1"><vh>@edit 2016cdhww17.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
