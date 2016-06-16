@@ -1,5 +1,632 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016 SPRING CD 課程</title><link href="http://40323107.github.io/2015fallcadpa/" rel="alternate"></link><link href="http://40323107.github.io/2015fallcadpa/feeds/all.atom.xml" rel="self"></link><id>http://40323107.github.io/2015fallcadpa/</id><updated>2016-01-07T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計與實習 報告十七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w17%20-%20%2040323107.html" rel="alternate"></link><updated>2016-01-07T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-01-07:2015fallcadpa/2015cp_hw_w17 -  40323107.html</id><summary type="html">&lt;p&gt;公告：&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016 SPRING CD 課程</title><link href="http://40323107.github.io/2015fallcadpa/" rel="alternate"></link><link href="http://40323107.github.io/2015fallcadpa/feeds/all.atom.xml" rel="self"></link><id>http://40323107.github.io/2015fallcadpa/</id><updated>2016-06-13T00:00:00+08:00</updated><entry><title>2016 協同產品設計實習 十七</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w17%20-%20%2040323107.html" rel="alternate"></link><updated>2016-06-13T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-06-13:2015fallcadpa/2016cd_hw_w17 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十七週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest17.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest17.html" target="_blank"&gt;第十七週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w17&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第17週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4610  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.自我評分。&lt;code&gt;( ※自我肯定  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Onshape軟體&lt;/code&gt;繪製零件。&lt;/p&gt;
+&lt;p&gt;4.說明如何計算&lt;code&gt;Nutcracker 機構&lt;/code&gt;的有效運動距離。&lt;/p&gt;
+&lt;p&gt;5.說明評分時程規劃。&lt;/p&gt;
+&lt;p&gt;→網址：&lt;a href=" http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html"&gt; http://chiamingyen.github.io/kmolab/blog/2015-fall-final-schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)自我評分。
+(2)閱讀課程相關文章。
+(3)計算 Nutcracker 機構 的有效運動距離。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)相關圖片。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/SlU4fBfIT9IhbAyl"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/OFpgK043fiogZjSW"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/rHrxpJW0jsiQBKQv"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/u4ZnKqfUoWbvFoJo"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W17  Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w17_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w17_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.40323107 - Copy.com：&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十七週喔！這次真的是期末作業與報告啦！&lt;/p&gt;
+&lt;p&gt;本週的主要任務是各週資料統整還有期末自評唷！ 
+一轉眼，學期末就到啦！感覺一切好不真實，回想前幾週的點滴，總覺得像過眼雲煙那般，看似忙碌又好
+像不忙碌，好像有種反複做著相同動作的錯覺呢！回想這幾週所學習到的知識，很多，一下子腦袋瓜有點
+負荷不了，但還是有喘息的空間啦！總之，若要我做個各週資料統整的話，感覺非難非易，因為人的記憶
+是有限的，有時它會自動過濾並刪除一些資訊，所以才需要科技的幫忙呢！也就是說，透過筆記、詢問、
+影片觀賞...等，真的能幫助我找回失落的記憶呢！還有，透過這次的體驗，從中我也領悟到很多道理呢！
+好比說：獨樂樂不如眾樂樂還有別把事情想得太複雜，其實它的道理很簡單的，也就是說：我們不能將事
+情由簡化難，而是要做到化難為簡，這個道理看似很簡單，做起來卻很難呢！另外，關於分組協同的部分
+，有很多地方還要再磨練磨練才行，雖然想做好，但要設想的層面太廣了，不過這真的是一個很難得的經
+驗，總之，在這門課程裡我真的學到很多，很難用言語來形容的感覺，所以也只能說：獲益良多。&lt;/p&gt;
+&lt;p&gt;這學期真的學到好多道理呀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒有太大的問題、資料統整還行、教導別人尚可、報告內容還不錯。&lt;/p&gt;
+&lt;p&gt;4.啟發：知識是源源不絕的。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4610"&gt;http://wordpress-2015course.rhcloud.com/?p=4610&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W17 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/150985277" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W17 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/150636968" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十六</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w16%20-%20%2040323107.html" rel="alternate"></link><updated>2016-06-06T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-06-06:2015fallcadpa/2016cd_hw_w16 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十六週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;第十六週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w16&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第16週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4584  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.利用 &lt;code&gt;Onshape軟體&lt;/code&gt;繪製零件。&lt;/p&gt;
+&lt;p&gt;3.說明如何計算&lt;code&gt;Nutcracker 機構&lt;/code&gt;的有效運動距離。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程相關文章。
+(2)利用 `Onshape軟體 `繪製零件。(  ※組別分配任務為：零件 7 和 零件 8 以及  Nutcracker 機構組裝  )
+(3)觀看課程教學影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件7： HINGE &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件繪製流程。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)繪製草圖1：以&lt;code&gt;上視圖&lt;/code&gt;(Top)做基準面，繪製一個&lt;code&gt;U型圖&lt;/code&gt;，依據&lt;code&gt;2D草圖&lt;/code&gt;所給予的尺寸來標註。&lt;br /&gt;
+&lt;img src="https://copy.com/Eo6gZnyaLQuYB0F7"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)伸長填料&lt;code&gt;(擠出1)&lt;/code&gt;：以&lt;code&gt;上視圖&lt;/code&gt;(Top)為基準，兩側對稱向&lt;code&gt;左右&lt;/code&gt;伸長 0.75in。&lt;br /&gt;
+&lt;img src="https://copy.com/YaTpf9ASUaWVIIsG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(3)繪製草圖2：以&lt;code&gt;右視圖&lt;/code&gt;(Right)向後，物體平行右視圖最遠的面&lt;code&gt;(面1)&lt;/code&gt;做基準面，繪製一個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;。&lt;br /&gt;
+&lt;img src="https://copy.com/pMhgXxhMseCRMZrZ"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(4)伸長除料&lt;code&gt;(擠出2)&lt;/code&gt;：以&lt;code&gt;面1&lt;/code&gt;做基底，向&lt;code&gt;前&lt;/code&gt;完全貫穿物體除料。&lt;br /&gt;
+&lt;img src="https://copy.com/hcGFD1GRDTqHWvJw"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(5)繪製草圖3：以物體底座&lt;code&gt;(面2)&lt;/code&gt;做基準面，繪製兩個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;且互相對稱，圓心距離&lt;code&gt;上邊&lt;/code&gt;為 0.25in、距離&lt;code&gt;兩側&lt;/code&gt;各為 0.2in。&lt;br /&gt;
+&lt;img src="https://copy.com/HqlLGZieIaqGxOut"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(6)伸長除料&lt;code&gt;(擠出3)&lt;/code&gt;：以&lt;code&gt;面2&lt;/code&gt;做基底，向&lt;code&gt;後&lt;/code&gt;(右)刪除 0.5in。&lt;br /&gt;
+&lt;img src="https://copy.com/JmsqOCm3nTUC6TPG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(7)零件完成。&lt;br /&gt;
+&lt;img src="https://copy.com/Cq6b4PUpdRe8K6AL"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;零件8： PISTON &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件繪製流程。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)繪製草圖1：以&lt;code&gt;前視圖&lt;/code&gt;(Front)做基準面，繪製一個&lt;code&gt;直徑 0.995 的圓&lt;/code&gt;。&lt;br /&gt;
+&lt;img src="https://copy.com/E0GYdrZlMDSJAFbv"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)伸長填料&lt;code&gt;(擠出1)&lt;/code&gt;：以&lt;code&gt;前視圖&lt;/code&gt;(Front)做基底，向&lt;code&gt;前&lt;/code&gt;伸長 5in。&lt;br /&gt;
+&lt;img src="https://copy.com/yA9JubVuMyHHh10V"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(3)繪製草圖2：以&lt;code&gt;物體向前伸長的那一面&lt;/code&gt;(面1)`做基準面，繪製兩個矩形，並互相對稱，矩形靠近圓心的那一邊與圓心距離為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/j2CqaBI3eHIuduqh"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(4)伸長除料&lt;code&gt;(擠出2)&lt;/code&gt;：以&lt;code&gt;面1&lt;/code&gt;做基底，向&lt;code&gt;後&lt;/code&gt;刪除 1in。&lt;br /&gt;
+&lt;img src="https://copy.com/ts1WVnZeSWzhFNvF"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(5)繪製草圖3：以&lt;code&gt;除料後&lt;/code&gt;的某一面&lt;code&gt;(面2)&lt;/code&gt;做基準面，繪製一個&lt;code&gt;直徑 0.25 的圓&lt;/code&gt;且圓心距離面1為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/V9QN9EmJja7g9w1F"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(6)伸長除料&lt;code&gt;(擠出3)&lt;/code&gt;：以&lt;code&gt;面2&lt;/code&gt;做基底，向&lt;code&gt;前&lt;/code&gt;(右)刪除 1in。&lt;br /&gt;
+&lt;img src="https://copy.com/t6NQBHNaXvdaXeq1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(7)繪製草圖4：以&lt;code&gt;右視圖&lt;/code&gt;(Right)做基準面，繪製兩條線相互垂直及一個&lt;code&gt;直徑 1&lt;/code&gt;的半圓，且垂直線距離原點(前視圖的中心點)為 0.25in。&lt;br /&gt;
+&lt;img src="https://copy.com/uGnpoGxTvRaRQQlG"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(8)旋轉除料&lt;code&gt;(擠出4)&lt;/code&gt;：以&lt;code&gt;距離原點(前視圖的中心點)為 0.25in的垂直線&lt;/code&gt;做軸心，&lt;code&gt;逆&lt;/code&gt;時針旋轉除料。&lt;br /&gt;
+&lt;img src="https://copy.com/0xZhDobFLy1Uxj8H"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(9)零件完成。&lt;br /&gt;
+&lt;img src="https://copy.com/vIAtGH8KgBWLljHv"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(B)零件組合。&lt;/p&gt;
+&lt;p&gt;1.零件 3D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件組裝圖。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;(1)a_g2_nutcracker - 40323107- Nutcracker 機構(close)&lt;br /&gt;
+&lt;img src="https://copy.com/nUtDHndz6k8FKRF1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)a_g2_nutcracker - 40323107- Nutcracker 機構(open)&lt;br /&gt;
+&lt;img src="https://copy.com/2DfCCXbxYcawNHp1"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(C)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W16  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.40323107 - Copy.com： &lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.40323107 - Onshape軟體： &lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;https://cad.onshape.com/documents?filter=recently-opened&amp;amp;column=modifiedAt&amp;amp;order=desc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.7.a_g2_nutcracker： &amp;lt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十六週喔！為期末的第七次作業與報告啦！&lt;/p&gt;
+&lt;p&gt;時間過得好快唷！轉瞬間就已經接近學期的尾聲了，顯然又到了最關鍵的時段啦！好多資料要統整的說。
+廢話不多說，馬上切入本週的主題吧！到了這時候你應該也有所發現，從W10 ~W16，我們好像都在處理
+同一件事情呢！只是偶而會增加一些難度，但也還好，不致於應付不來，總之，其實課程是一直堆疊上來
+的，所以每個環節都很重要呢！因此，到了這週，是在提醒我是該準備統整資料囉！不然就會來不及了，
+有點像趕快把燙手芋泥賣掉,，不然就要倒大楣了，又像是在諷刺說：平時不準備，事到臨頭才著急，可
+惜已經太晚啦！咎由自取。扯太遠了，這週的任務是尋找方法計算出 Nutcracker 機構 的有效運動距離，方
+法不限，總之，就是不管你運用何種方式，只要能求得答案行了。換句話說，雖然結果只有一個，但解決
+辦法確有很多種，只是看你想不想的到、用不用的到而已。&lt;/p&gt;
+&lt;p&gt;環環相扣 ~ ~ ~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度有跟上、資料統整還行、零件組裝不太行。&lt;/p&gt;
+&lt;p&gt;4.啟發： 很多事物都有異曲同工之處。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;http://wordpress-2015course.rhcloud.com/?p=4584&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W16 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/150401255" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W16 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/150140635" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十五</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w15%20-%20%2040323107.html" rel="alternate"></link><updated>2016-05-30T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-05-30:2015fallcadpa/2016cd_hw_w15 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十五週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest15.html" target="_blank"&gt;第十五週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w15&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第15週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4532  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;3.於&lt;code&gt;Onshape軟體&lt;/code&gt;網址創建帳號。&lt;/p&gt;
+&lt;p&gt;→&lt;a href="https://www.onshape.com/"&gt;Onshape軟體&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.說明&lt;code&gt;Onshape軟體&lt;/code&gt;的操作及功能。&lt;/p&gt;
+&lt;p&gt;5.利用 &lt;code&gt;Onshape軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)利用 Creo Parametric軟體 繪製零件。(※組別分配的零件為：BASE  和 CONNECTION  )
+(3)於 Onshape軟體 網址創建帳號。
+(4)閱讀與熟悉 Onshape軟體 的操作及功能。
+(5)利用 `Onshape軟體` 繪製 `Nutcracker 機構`。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件3： BASE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/BASE_3-3.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152475922" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件4： CONNECTION&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CONNECTION_4-4.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152476284" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W15  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w15_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w15_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.40323107 - Onshape軟體： &amp;lt;&lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;https://cad.onshape.com/documents?filter=recently-opened&amp;amp;column=modifiedAt&amp;amp;order=desc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7.a_g2_nutcracker： &amp;lt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十五週喔！這週為期末的第六次報告和作業，已經在倒數囉！&lt;/p&gt;
+&lt;p&gt;從這週開始運用新的軟體來繪製 Nutcracker 機構 囉！課程進度會跟上，不過我們組還是會執行自己安排的進度啦！
+反正就是有辦法兩者兼顧。另外，因為學習到新的知識(軟體)，讓人有種躍躍欲試的情緒呢！因此，廢話不多說、
+打鐵要趁熱，試吧！然而嘗試後，我覺得比 Creo Parametric軟體 還容易操作，感覺跟 Solid work 軟體 的操作方式很
+相似，但兩者間還是有差異姓啦！但說真的，簡單很多、容易上手，不過還是有困難的地方，例如：協同的部分
+讓人想到就頭昏腦脹的，難以理解，幸虧有高手幫忙才得以解脫，不過自己還是得慢慢去理解才行，因為人不能
+一昧的等待別人來告訴自己答案，而是必須自己去尋求答案，這麼一來學到的才會真的屬於你。總之，從這次的
+經驗哩，我領悟到很多道理也感覺獲益良多！ &lt;/p&gt;
+&lt;p&gt;Onshape 軟體真的滿有趣的 ~ ~ ~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度還行、資料統整還好、軟體操作尚可接受。&lt;/p&gt;
+&lt;p&gt;4.啟發：從學習中獲得經驗。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;http://wordpress-2015course.rhcloud.com/?p=4532&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.Onshape in Action 網址：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4549"&gt;http://wordpress-2015course.rhcloud.com/?p=4549&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;iframe src="https://player.vimeo.com/video/149940498" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十四</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w14%20-%20%2040323107.html" rel="alternate"></link><updated>2016-05-23T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-05-23:2015fallcadpa/2016cd_hw_w14 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十四週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest14.html" target="_blank"&gt;第十四週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w14&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第14週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.修改&lt;code&gt;fix檔&lt;/code&gt;與安裝&lt;code&gt;leo檔&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)利用 Creo Parametric軟體 繪製零件。(※組別分配的零件為：ADJUSTER_BASE  和 ADJUSTER  )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件1： ADJUSTER_BASE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_BASE_1-1.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152472555" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件2：ADJUSTER &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_2-2.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152472929" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W14  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w14_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w14_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十四週喔！這是期末的第五次團體報告與個人作業呢！已經逐漸接近尾聲了唷！&lt;/p&gt;
+&lt;p&gt;這週任務一樣是接續上週的進度，內容：各組組員互相協調後，利用 Creo Parametric軟體 
+來完成 Nutcracker 機構，並彙整資料，完成團體報告及個人作業。
+經過幾週的摸索後，對於 Creo Parametric軟體 我已經有點熟悉了，操作動作的順暢度也有提升呢！
+感覺變得比較有趣的說，真奇妙！之前或許是我跟它不熟識的關係，算啦！有趣就行了。
+後來我領悟到，其實只要你多接觸它、認識它，你就可以從中學到很多，也可以發現它的好處唷！
+總之，一切還可以，最後我只能說：付出的努力總算是有價值的啦！&lt;/p&gt;
+&lt;p&gt;付出的努力是有價值的！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還行、軟體操作尚可。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都要持之以恆。&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( PS：參考&lt;/code&gt;W12&lt;code&gt;的課程網址，因為任務內容相同。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.雲端電腦輔助設計繪圖軟體：&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4514"&gt;http://wordpress-2015course.rhcloud.com/?p=4514&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;iframe src="https://player.vimeo.com/video/148825230" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十三</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w13%20-%20%2040323107.html" rel="alternate"></link><updated>2016-05-16T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-05-16:2015fallcadpa/2016cd_hw_w13 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十三週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest13.html" target="_blank"&gt;第十三週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w13&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第13週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.下載檔案並安裝。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;4.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)修改 fix ，安裝 leo。
+(2)閱讀課程內容相關資訊。
+(3)利用 Creo Parametric軟體 繪製零件。( ※組別分配的任務為：Nutcracker 機構組裝 )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)機構組裝。&lt;/p&gt;
+&lt;p&gt;1.機構 3D 等角圖。&lt;code&gt;(open)&lt;/code&gt;&lt;br /&gt;
+&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.機構 3D 等角圖。&lt;code&gt;(close)&lt;/code&gt;&lt;br /&gt;
+&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;3.機構組裝影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152475136" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W13  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w13_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w13_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十三週喔！期末的第四次團體報告和個人作業呢！&lt;/p&gt;
+&lt;p&gt;這週任務為利用 Creo Parametric軟體 來完成 Nutcracker 機構，並統整出團體報告的資料。
+你是否有注意到呢？！其實這只是之前進度的延伸而已，已經持續好幾週囉！
+然而， Creo Parametric軟體 操作方面對於我來說還是覺得有難度，動作都不流暢，好難操作喔！
+有想放棄的念頭，但事情總是愛跟你唱反調，比如：當你以為快撐不住時，它偏偏就是撐住了，
+那你還能說什麼呢！總之，我會努力學習的，使我能在操作動作上更流暢，說真的，當你好不容
+易完成一個零件後，還是會感到很有成就感的。&lt;/p&gt;
+&lt;p&gt;Creo Parametric軟體真令人頭疼呀！好想用自己熟悉的繪圖軟體呀！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題吧！？軟體操作普通、教導別人就有點困難了。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都要努力去嘗試。&lt;/p&gt;
+&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( PS：參考&lt;/code&gt;W12&lt;code&gt;的課程網址，因為任務內容相同。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W13 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/148455580" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W13 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/148458668" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十二</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w12%20-%20%2040323107.html" rel="alternate"></link><updated>2016-05-09T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-05-09:2015fallcadpa/2016cd_hw_w12 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十二週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;第十二週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w12&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第12週 〞文章  )&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=4474  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.下載檔案並安裝。&lt;/p&gt;
+&lt;p&gt;3.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製 &lt;code&gt;Nutcracker 機構&lt;/code&gt;。&lt;code&gt;(※分工合作)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.承接上週&lt;code&gt;(w11)&lt;/code&gt;的課程內容。&lt;/p&gt;
+&lt;p&gt;5.觀看課程相關教學影片。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)安裝 leo。
+(2)閱讀課程內容相關資訊。
+(3)指定 Jupyter 的啟動目錄為 tmp。
+(4)利用`Creo Parametric軟體`繪製零件。(※組別分配的零件為：HINGE  和 PISTON )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件7： HINGE &lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HINGE_7-7.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152470821" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件8： PISTON&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/PISTON_8-8.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152471254" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W12  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w12_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w12_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十二週喔！這是期末的第三次個人作業與團體報告囉！&lt;/p&gt;
+&lt;p&gt;這一週的課程內容跟上週的內容和任務差不多喔！所以，如果上週進度沒完成的話，就有可能影響到這週的進度。
+但也不用太擔心啦！還有範例可以參考嘛~~~不然也可以請教會做的人呀！
+說到這週的任務嘛！一方面是補齊前幾次的作業；一方面則是各組組員互相協調利用 Creo Parametric軟體 來完成 
+Nutcracker 機構，並繳交團體報告和整理個人作業。
+反正目前就是運用新的繪圖軟體來完成作業就是了，不過，你也可以嘗試使用之前所學習的繪圖軟體來繪圖啦！
+我覺得多方面嘗試是很好的行為唷！
+總之，接下來的進度就是繪製&lt;Nutcracker 機構&gt;的零件與組裝以及各組分工合作完成各週報告。
+最後，進度層面我還跟得上，而且，如果我有不懂的地方我也會請教同學或教授，所以我才跟得上教學進度。&lt;/p&gt;
+&lt;p&gt;團隊合作真的很重要！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85  分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還可以、教導別人可能不太行。&lt;/p&gt;
+&lt;p&gt;4.啟發： 分工合作的重要性。&lt;/p&gt;
+&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;http://wordpress-2015course.rhcloud.com/?p=4474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W12 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/147709308" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/147712937" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/147276192" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W12 - 4：
+ &lt;iframe src="https://player.vimeo.com/video/147279887" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 十一</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w11%20-%20%2040323107.html" rel="alternate"></link><updated>2016-05-02T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-05-02:2015fallcadpa/2016cd_hw_w11 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第十一週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;第十一週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w11&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.說明課程內容及任務。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※針對〝 2015Fall CADPA 第11週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=3678  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.修改 fix.bat，安裝 leo。&lt;/p&gt;
+&lt;p&gt;3.修改 start.bat ，指定 Jupyter 的啟動目錄為 tmp。&lt;/p&gt;
+&lt;p&gt;4.創建組別的 leo。&lt;code&gt;( ※範例：g2.leo 或  G2.leo )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※PS：可參考 2015fallcadpb 倉儲 或 user 9999 倉儲 。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.利用 &lt;code&gt;Creo Parametric軟體&lt;/code&gt; 繪製&lt;code&gt;Nutcracker 機構&lt;/code&gt;零件。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀課程內容相關資訊。
+(2)自行下載 fix檔案，並安裝 leo。
+(3)創建組別的 leo。(例如：g2.leo)(※獨立的)
+(4)利用`Creo Parametric軟體`繪製零件。(※組別分配的零件為：CYLINDER 和 HANDLE )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(A)零件繪製。&lt;/p&gt;
+&lt;p&gt;零件5： CYLINDER &lt;/p&gt;
+&lt;p&gt;(1)零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt; &lt;/p&gt;
+&lt;p&gt;(2)零件 3D 圖。&lt;code&gt;(stl檔)&lt;/code&gt;&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CYLINDER_5-5.stl"&gt;&lt;/script&gt;  &lt;/p&gt;
+&lt;p&gt;(3)零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152468947" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件6： HANDLE&lt;/p&gt;
+&lt;p&gt;1.零件 2D 草圖。&lt;br /&gt;
+&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;2.零件 3D 圖。&lt;br /&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HANDLE_6-6.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152470110" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(B)相關網址。&lt;/p&gt;
+&lt;p&gt;1.G2 - Pages ：&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;http://2015fallhw.github.io/2015fallcadpa/category/g2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.G2 - W11  Pages ： &lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w11_1.html"&gt;http://2015fallhw.github.io/2015fallcadpa/g2_w11_1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.G2 - Github ： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;4.G2 - Github - 40323107： &lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;5.40323107 - Copy.com： &amp;lt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為第十一週唷！也是期末的第二次個人作業和團體報告呢！&lt;/p&gt;
+&lt;p&gt;這週的課程內容是沿用上週所教導的知識，然後再提升點困難度。
+ 內容則是在描述新版的投影片格式及運用對照法將A、B兩班的倉儲做比較與說明。
+ 關於上述的部分，我還不太能理解，所以我得花時間來研究研究才行。
+ 另外，若是按照教授的步驟進行的話，大致上進度還算尚可，卻會產生一些疑問呢！
+ 比如：創建組別的專屬 leo 時，就碰到一些障礙，最後還被我誤打誤撞弄成功的，感覺超不可思議的！
+ 但還是要利用時間自己摸索或請教其他人才行，不然問題一直擱在心裡也挺難受的，還是早點處理得好。
+ 還有，利用 Creo Parametric軟體 繪製零件的挑戰性滿高的，這個障礙也得克服才行。
+ 總之，這週的任務我是處於似懂非懂的狀態呢！但對於可以吸收到更多的知識，我還是很開心的，
+ 只是要做到學以致用可能需要很久吧！反正，先學習就是了。&lt;/p&gt;
+&lt;p&gt;學習，是為了走更長遠的路。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評：85  分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，課程進度有些疑問、資料統整還不夠完整、網頁管理有待加強。&lt;/p&gt;
+&lt;p&gt;4.啟發： 凡事都是一體兩面呢！&lt;/p&gt;
+&lt;h2&gt;(四)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3678"&gt;http://wordpress-2015course.rhcloud.com/?p=3678&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W11 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/146592105" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W11 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/146593944" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 協同產品設計實習 一</title><link href="http://40323107.github.io/2015fallcadpa/2016cd_hw_w1%20-%20%2040323107.html" rel="alternate"></link><updated>2016-02-22T00:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-02-22:2015fallcadpa/2016cd_hw_w1 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第一週內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest1.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest1.html" target="_blank"&gt;第一週投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w1&lt;/h1&gt;
+&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
+&lt;p&gt;1.下載“ Ana3_2015 ”檔案，並簡略說明。
+&lt;code&gt;( ※路徑： 學校電腦 → C槽 → Ana3_2015檔  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.登入課程網址，並閱讀課程相關文章。
+&lt;code&gt;( ※課程網址：http://wordpress-2015course.rhcloud.com/  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第1週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=3637  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.點選文章中的 reveal.js 倉儲。
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/reveal )&lt;/code&gt;
+&lt;code&gt;( ※對應的 github pages：demo，cadpaw1.html  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.嘗試在近端與遠端上輸出字串 。
+&lt;code&gt;( ※例： print("hello")  )&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;方法一：
+    於近端桌面開啟 &amp;quot;start&amp;quot; ，跳出 jupyter 網頁，輸入密碼(2015cp)進行登入，操作 (輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello)。
+     (※操作：jupyter → new → python 3 → print(&amp;quot;hello&amp;quot;) → cell → run → hello 。 )
+方法二：
+     於近端桌面開啟 &amp;quot;start&amp;quot;，運用 &amp;quot; cmd &amp;quot; ，輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello 。
+     (※操作：cmd →  print(&amp;quot;hello&amp;quot;) → enter → hello 。 )
+方法三：
+    於近端桌面開啟 &amp;quot;start&amp;quot;，運用 &amp;quot; SciTE &amp;quot; ，輸入 print(&amp;quot;hello&amp;quot;)，存檔，輸出 hello。
+    (※操作：SciTE → print(&amp;quot;hello&amp;quot;) → File - save → Tools - Go →  hello 。 )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;code&gt;(PS：由此可知，一個答案有多種解法。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
+&lt;p&gt;7.學習如何於近端 &lt;code&gt;cmd&lt;/code&gt; 創建 &lt;code&gt;Github&lt;/code&gt; 的分支 &lt;code&gt;gh-pages&lt;/code&gt;，再推送至遠端 &lt;code&gt;Github&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;8.於〝Google〞輸入 "192.168.1.35:8000 "，下載資料。
+&lt;code&gt;( ※操作：cmd → python -m http.server)&lt;/code&gt;
+&lt;code&gt;( ※資料：課程教學影片。 )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)輸出字串。( ※字串為 Hello ) 
+(2)建立個人 Github 課程倉儲 。( ※名稱為 2015cadp )
+(3)使用 Git 在近端建立分支，並推送至遠端。( ※運用 git branch )
+(4)使用 SciTE 新增網頁，並利用 git 推送至 Github。( ※網頁：index.html )
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;(1)Github個人倉儲網址：&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(2)測試網頁網址：https://www.google.com.tw&lt;/p&gt;
+&lt;p&gt;(3)自製教學影片：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;w1-1 → 如何輸出字串
+w1-2 → 如何創建倉儲
+w1-3 → 如何新建分支
+w1-4 → 如何新建網頁
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
+&lt;p&gt;1.心得：   &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這週為開學第一週喔！換句話說：就是這個課程第一次上課呢！&lt;/p&gt;
+&lt;p&gt;一開始，說明使用之軟體、使用之網站、教學與作業進度、注意事項...等，總而 
+言之，就是例行公事啦！然後進入正題，開始說明第一週課程內容，因此，對於 
+作業與任務感覺上是懂非懂，雖然上課有做筆記，也有教學影片提供參考，但實
+際操作還是有問題，如：可創建倉儲，卻無法顯示網頁(指〝.html〞)，我嘗試很多
+次以及幫助別人創建倉儲，但還是都失敗了，經過查證後(詢問教授/老師)，並非
+操作流程錯誤，而是倉儲認證未通過，結論，只要認證通過就能成功，經過這次
+的經歷，讓我印象非常深刻呢！但也從中吸收到新的知識，更讓我領悟出一些道
+理呢！&lt;/p&gt;
+&lt;p&gt;這算不算一個好的開始呢？！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2.自評： 90 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： 整體而言，能夠掌握，只是有些許疑問，但不影響。&lt;/p&gt;
+&lt;p&gt;4.啟發： 失敗為成功之母、熟能生巧、持之以恆。&lt;/p&gt;
+&lt;h2&gt;(四) 補充說明：&lt;/h2&gt;
+&lt;p&gt;1.git 指令與涵義 &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;使用者認證。
+    → git config --global user.name &amp;quot;40323107&amp;quot;  ( 使用者姓名 )
+    → git config --global user.email 40323107@gm.nfu.edu.tw  ( 使用者信箱 )
+    → git config -l  ( 驗證身分 )  or git config --list ( 設定內容 )
+下載倉儲。
+    → git clone 網址  ( 複製你需要的倉儲網址 )
+進入倉儲。
+    → cd 檔名  ( 倉儲的名稱 )
+將想要快照的內容寫入暫存區。
+    → git add . 或 git add -A
+實際儲存快照又稱為提交。
+    → git commit -m &amp;quot;檔名&amp;quot;  ( 檔名可為提交的內容簡敘 )
+退出倉儲。
+    → cd ..
+檢查分支。
+    → git branch
+創建分支。
+    → git branch gh-pages 
+切換分支。
+    → git checkout gh-pages or git co gh-pages
+內部命令，顯示某個磁碟指定目錄下的全部或部分檔案目錄和子目錄。
+    → dir 
+將資料指定〝推〞送至遠端的分支。
+    → git push origin gh-pages
+將指定資料〝拉〞至近端。
+    → git pull origin gh-pages
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.操作流程簡敘：
+&lt;code&gt;( ※創建網頁流程。 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;start → cmd → 使用者認證 → 下載倉儲 → 進入倉儲 → 檢查、建立、切換分支 → dir → SciTE - index.html → 暫存 → 提交 → 推送至分支 → 完成。   &lt;/p&gt;
+&lt;h2&gt;(五)其他資料：&lt;/h2&gt;
+&lt;p&gt;1.課程網址： &lt;a href="http://wordpress-2015course.rhcloud.com/"&gt;http://wordpress-2015course.rhcloud.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3637"&gt;http://wordpress-2015course.rhcloud.com/?p=3637&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
+&lt;p&gt;W1 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/140277188" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/140281702" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
+&lt;p&gt;4.Sci TE 的內容： &lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.圖片連結測試：
+&lt;code&gt;操作方式：放入圖檔，可以直接利用 html 的 img 標註。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/1.jpeg" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;6.影片連結測試：
+&lt;code&gt;操作方式：Vimeo 影片嵌入，直接從 Vimeo 影片上的 Share 複製 html 碼。&lt;/code&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 報告十七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w17%20-%20%2040323107.html" rel="alternate"></link><updated>2016-01-07T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2016-01-07:2015fallcadpa/2015cp_hw_w17 -  40323107.html</id><summary type="html">&lt;p&gt;公告：&lt;/p&gt;
 &lt;p&gt;以下為第十七週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest17.html" width="500" height="300"&gt;&lt;/iframe&gt;
